@@ -63,11 +63,12 @@ def SaveAllRolesData():
     for role in allRoles:
         one_data = {'order_sn': role['game_ordersn'], 'server_id': role['serverid']}
         all_order_sn.append(one_data)
-
+    s_time = 0
     for data in all_order_sn:
-        time.sleep(random.random() * 2 + 2)
-        role_data = CrawlYYSCBG_RoleDataList.main.getCbgData(data['server_id'], data['order_sn'])
+        time.sleep(s_time)
+        role_data, s_time = CrawlYYSCBG_RoleDataList.main.getCbgData(data['server_id'], data['order_sn'])
         CrawlYYSCBG_RoleDataList.main.saveData(role_data)
 
 
 SaveAllRolesData()
+
