@@ -1,0 +1,6459 @@
+{
+  "other_info": {
+    "status": 1,
+    "equip": {
+      "appointed_data": null,
+      "unpaid_user_order": null,
+      "product": "yys",
+      "equip_desc": null,
+      "create_time_desc": "2020-09-20 16:48:24",
+      "storage_type": 4,
+      "create_time": "2020-09-20 16:48:24",
+      "equipid": 27170,
+      "allow_multi_order": true,
+      "collect_num": 0,
+      "pass_fair_show": 1,
+      "appointed_roleid": null,
+      "fair_show_end_time": "2020-09-21 16:48:24",
+      "platform_type": 1,
+      "level_desc": "60级",
+      "highlights": [],
+      "min_buy_level": null,
+      "coupon_data": {},
+      "kindid": 1,
+      "is_support_instalment": false,
+      "allow_fair_show_buy": false,
+      "equip_level": 60,
+      "equip_lock_time_desc": "2020-09-22 15:14:04",
+      "icon": "https://cbg-yys.res.netease.com//game_res/hero/269/269.png",
+      "area_name": "联运-双平台",
+      "desc_sumup_short": "SSR 15   六星式神 4   签到197天",
+      "status": 2,
+      "cross_buy_serverid_list": [],
+      "equip_type": "0",
+      "price": 15000,
+      "other_info": {
+        "top_heros": [
+          {
+            "max_level": true,
+            "star": 6,
+            "name": "妖刀姬",
+            "level": 40,
+            "awake": 1,
+            "heroId": 269,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/269/269.png",
+            "rarity": 4
+          },
+          {
+            "max_level": true,
+            "star": 6,
+            "name": "酒吞童子",
+            "level": 40,
+            "awake": 1,
+            "heroId": 219,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/219/219.png",
+            "rarity": 4
+          },
+          {
+            "max_level": true,
+            "star": 6,
+            "name": "大天狗",
+            "level": 40,
+            "awake": 1,
+            "heroId": 217,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/217/217.png",
+            "rarity": 4
+          },
+          {
+            "max_level": true,
+            "star": 6,
+            "name": "泷夜叉姬",
+            "level": 40,
+            "awake": 1,
+            "heroId": 338,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/338/338.png",
+            "rarity": 4
+          },
+          {
+            "max_level": false,
+            "star": 5,
+            "name": "不知火",
+            "level": 35,
+            "awake": 1,
+            "heroId": 330,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/330/330.png",
+            "rarity": 4
+          }
+        ],
+        "level_desc": "60级",
+        "highlights": [],
+        "desc_sumup": "SSR 15   六星式神 4   签到197天",
+        "basic_attrs": [
+          "SSR 15",
+          "六星式神 4",
+          "签到197天"
+        ],
+        "desc_sumup_short": "SSR 15   六星式神 4   签到197天",
+        "icon": "https://cbg-yys.res.netease.com//game_res/hero/269/269.png"
+      },
+      "status_desc": "上架中",
+      "allow_urs_bargain": false,
+      "expire_remain_seconds": 1128859,
+      "expire_time": "2020-10-05 16:48:24",
+      "serverid": 7,
+      "first_onsale_price": 15000,
+      "is_owner": false,
+      "server_name": "B站-两心无间",
+      "seller_name": "湫鸣~",
+      "allow_cross_buy": false,
+      "game_ordersn": "202009131601616-7-8ICYSPQUFJDYJK",
+      "web_last_price": 15000,
+      "equip_count": 1,
+      "equip_name": "湫鸣~",
+      "eid": "202009201601613-7-RZHZKAKR9OXWPL",
+      "allow_bargain": false,
+      "seller_roleid": "590de0a7baa9a36f11e3cbb2",
+      "format_equip_name": "湫鸣~",
+      "selling_time": "2020-09-20 16:48:24",
+      "game_channel": "netease"
+    }
+  },
+  "equip_desc": {
+    "ssr_coin": 0,
+    "pvp_stage": 1,
+    "hero_summary": 319,
+    "money": 3030304,
+    "hero_count_dict": {
+      "3": {
+        "1": 7,
+        "2": 2,
+        "4": 1
+      },
+      "2": {
+        "1": 37,
+        "3": 56,
+        "2": 189,
+        "5": 3,
+        "4": 8
+      },
+      "5": {
+        "1": 3,
+        "3": 2,
+        "4": 1
+      },
+      "4": {
+        "3": 2,
+        "2": 3,
+        "4": 1
+      },
+      "6": {
+        "4": 4
+      }
+    },
+    "gameble_card": 0,
+    "olt": 1600145961,
+    "skin": {
+      "ss": [
+        [
+          200,
+          "清香摇影",
+          412002,
+          false
+        ],
+        [
+          201,
+          "月见之樱",
+          412011,
+          false
+        ],
+        [
+          205,
+          "花火之约",
+          412052,
+          false
+        ],
+        [
+          219,
+          "酒歌狂行",
+          412191,
+          false
+        ],
+        [
+          237,
+          "灵山雪兔",
+          412375,
+          false
+        ],
+        [
+          255,
+          "清月之辉",
+          412551,
+          false
+        ],
+        [
+          269,
+          "樱雨刀舞",
+          412691,
+          false
+        ],
+        [
+          269,
+          "刀舞战风",
+          412693,
+          false
+        ],
+        [
+          330,
+          "星夜邀舞",
+          413302,
+          false
+        ]
+      ],
+      "guard": [],
+      "yard": [
+        [
+          900196,
+          "盛夏幽庭"
+        ],
+        [
+          900255,
+          "枫色秋庭"
+        ]
+      ],
+      "yys": [
+        [
+          10,
+          "月华流咏",
+          410104
+        ],
+        [
+          11,
+          "莺燕鸣樱",
+          410202
+        ]
+      ],
+      "jiejie": [
+        [
+          221,
+          "金鱼梦境"
+        ]
+      ]
+    },
+    "gouyu_card": 1,
+    "honors": [
+      950002
+    ],
+    "lbscards": {},
+    "on_sell": 1600589904,
+    "sign_days": 197,
+    "strength": 2892,
+    "pvp_score": 1000,
+    "ar_gamble_card": 0,
+    "currency_900073": 0,
+    "honor_score": 360,
+    "lv": 60,
+    "honors_detail": {},
+    "pvp_rank": -1,
+    "inventory": {
+      "59734c737374c45ab07b8ad8": {
+        "itemId": 140005,
+        "herouid": "59664d847374c403a4c9c0d4",
+        "rattr": [
+          [
+            "attackAdditionVal",
+            0.7702231330035308
+          ],
+          [
+            "defenseAdditionVal",
+            0.7471813375488289
+          ],
+          [
+            "debuffResist",
+            0.7863054364564978
+          ],
+          [
+            "maxHpAdditionRate",
+            0.7016270054965262
+          ],
+          [
+            "debuffResist",
+            0.7202657629464143
+          ],
+          [
+            "defenseAdditionVal",
+            0.7986322490243445
+          ],
+          [
+            "debuffResist",
+            0.7681994009209326
+          ]
+        ],
+        "name": "树妖",
+        "discard_time": 0,
+        "level": 15,
+        "newGet": 0,
+        "lock": false,
+        "base_rindex": 2,
+        "pos": 4,
+        "qua": 5,
+        "suitid": 300024,
+        "isuseless": false,
+        "attrs": [
+          [
+            "生命加成",
+            "38%"
+          ],
+          [
+            "攻击",
+            "21"
+          ],
+          [
+            "效果抵抗",
+            "9%"
+          ],
+          [
+            "防御",
+            "8"
+          ],
+          [
+            "生命加成",
+            "2%"
+          ]
+        ],
+        "exp": 750,
+        "base_r": 1.0,
+        "uuid": "59734c737374c45ab07b8ad8"
+      },
+      "5e71821821510f8820008f07": {
+        "itemId": 130006,
+        "herouid": "5d38238d58492d2dc2a33894",
+        "rattr": [
+          [
+            "attackAdditionVal",
+            0.8719569554722677
+          ],
+          [
+            "defenseAdditionRate",
+            0.8274750956687672
+          ],
+          [
+            "debuffEnhance",
+            0.9462113907596078
+          ],
+          [
+            "defenseAdditionVal",
+            0.8641358454590068
+          ]
+        ],
+        "name": "蚌精",
+        "level": 0,
+        "newGet": 0,
+        "lock": false,
+        "base_rindex": 1,
+        "pos": 3,
+        "qua": 6,
+        "suitid": 300034,
+        "isuseless": false,
+        "attrs": [
+          [
+            "防御",
+            "14"
+          ],
+          [
+            "攻击",
+            "24"
+          ],
+          [
+            "防御加成",
+            "2%"
+          ],
+          [
+            "防御",
+            "4"
+          ],
+          [
+            "效果命中",
+            "4%"
+          ]
+        ],
+        "base_r": 1.0,
+        "uuid": "5e71821821510f8820008f07"
+      },
+      "5d0edd7658492d0d222484f9": {
+        "itemId": 150006,
+        "herouid": "5954cca27374c45d9ec6c1fb",
+        "rattr": [
+          [
+            "maxHpAdditionVal",
+            0.8398966244922732
+          ],
+          [
+            "critRateAdditionVal",
+            0.8444710268977099
+          ],
+          [
+            "debuffEnhance",
+            0.8261241731988475
+          ],
+          [
+            "speedAdditionVal",
+            0.9540698755277819
+          ],
+          [
+            "maxHpAdditionVal",
+            0.9371232087464074
+          ],
+          [
+            "speedAdditionVal",
+            0.9085404851746055
+          ],
+          [
+            "speedAdditionVal",
+            0.9963592960956887
+          ],
+          [
+            "maxHpAdditionVal",
+            0.9738518749686742
+          ]
+        ],
+        "name": "招财猫",
+        "discard_time": 0,
+        "level": 15,
+        "newGet": 0,
+        "lock": true,
+        "base_rindex": 2,
+        "pos": 5,
+        "qua": 6,
+        "suitid": 300010,
+        "isuseless": false,
+        "attrs": [
+          [
+            "生命",
+            "2052"
+          ],
+          [
+            "速度",
+            "9"
+          ],
+          [
+            "暴击",
+            "3%"
+          ],
+          [
+            "效果命中",
+            "3%"
+          ],
+          [
+            "生命",
+            "314"
+          ]
+        ],
+        "exp": 0,
+        "base_r": 1.0,
+        "uuid": "5d0edd7658492d0d222484f9"
+      },
+      "5d107f5158492d0d222b430e": {
+        "itemId": 150006,
+        "herouid": "59664d847374c403a4c9c0d4",
+        "rattr": [
+          [
+            "critPowerAdditionVal",
+            0.8119402519719344
+          ],
+          [
+            "attackAdditionVal",
+            0.8450647579917195
+          ],
+          [
+            "maxHpAdditionVal",
+            0.8357617667051992
+          ],
+          [
+            "speedAdditionVal",
+            0.9433095727807833
+          ],
+          [
+            "attackAdditionVal",
+            0.802319357950383
+          ],
+          [
+            "speedAdditionVal",
+            0.9175562192548066
+          ],
+          [
+            "speedAdditionVal",
+            0.9627421604708906
+          ],
+          [
+            "attackAdditionVal",
+            0.8721980864666187
+          ]
+        ],
+        "name": "招财猫",
+        "discard_time": 0,
+        "level": 15,
+        "newGet": 0,
+        "lock": true,
+        "base_rindex": 2,
+        "pos": 5,
+        "qua": 6,
+        "suitid": 300010,
+        "isuseless": false,
+        "attrs": [
+          [
+            "生命",
+            "2052"
+          ],
+          [
+            "攻击",
+            "68"
+          ],
+          [
+            "速度",
+            "8"
+          ],
+          [
+            "暴击伤害",
+            "3%"
+          ],
+          [
+            "生命",
+            "95"
+          ]
+        ],
+        "exp": 0,
+        "base_r": 1.0,
+        "uuid": "5d107f5158492d0d222b430e"
+      },
+      "5d160e7858492d52c5387411": {
+        "itemId": 160006,
+        "herouid": "5911e981baa9a36f11e8004d",
+        "rattr": [
+          [
+            "maxHpAdditionRate",
+            0.9439298429782937
+          ],
+          [
+            "debuffResist",
+            0.97581741220594
+          ],
+          [
+            "critPowerAdditionVal",
+            0.8506844765636132
+          ],
+          [
+            "defenseAdditionRate",
+            0.9974621771299372
+          ],
+          [
+            "critPowerAdditionVal",
+            0.8447235699386332
+          ],
+          [
+            "debuffResist",
+            0.8211870720052201
+          ],
+          [
+            "critPowerAdditionVal",
+            0.894450325481947
+          ]
+        ],
+        "name": "破势",
+        "discard_time": 0,
+        "level": 15,
+        "newGet": 0,
+        "lock": true,
+        "base_rindex": 4,
+        "pos": 6,
+        "qua": 6,
+        "suitid": 300030,
+        "isuseless": false,
+        "attrs": [
+          [
+            "暴击",
+            "55%"
+          ],
+          [
+            "效果抵抗",
+            "7%"
+          ],
+          [
+            "防御加成",
+            "3%"
+          ],
+          [
+            "暴击伤害",
+            "10%"
+          ],
+          [
+            "生命加成",
+            "3%"
+          ]
+        ],
+        "exp": 0,
+        "base_r": 1.0,
+        "uuid": "5d160e7858492d52c5387411"
+      },
+      "5d16139458492d52c538dc5f": {
+        "itemId": 140006,
+        "herouid": "5e71d0fb21510f882004386b",
+        "rattr": [
+          [
+            "debuffResist",
+            0.9980449758319146
+          ],
+          [
+            "speedAdditionVal",
+            0.8254108470854656
+          ],
+          [
+            "critRateAdditionVal",
+            0.9594987464114351
+          ],
+          [
+            "attackAdditionVal",
+            0.8959710939936741
+          ],
+          [
+            "critRateAdditionVal",
+            0.9513023598024772
+          ],
+          [
+            "debuffResist",
+            0.9099685033583558
+          ],
+          [
+            "critRateAdditionVal",
+            0.8588190691918638
+          ],
+          [
+            "attackAdditionVal",
+            0.9283789248852199
+          ]
+        ],
+        "name": "针女",
+        "discard_time": 0,
+        "level": 15,
+        "newGet": 0,
+        "lock": true,
+        "base_rindex": 0,
+        "pos": 4,
+        "qua": 6,
+        "suitid": 300036,
+        "isuseless": false,
+        "attrs": [
+          [
+            "攻击加成",
+            "55%"
+          ],
+          [
+            "攻击",
+            "49"
+          ],
+          [
+            "效果抵抗",
+            "8%"
+          ],
+          [
+            "速度",
+            "2"
+          ],
+          [
+            "暴击",
+            "8%"
+          ]
+        ],
+        "exp": 0,
+        "base_r": 1.0,
+        "uuid": "5d16139458492d52c538dc5f"
+      },
+      "5980a5007374c469acdd4c2e": {
+        "itemId": 120006,
+        "rattr": [
+          [
+            "critPowerAdditionVal",
+            0.9676681960461722
+          ],
+          [
+            "critRateAdditionVal",
+            0.930498629291098
+          ],
+          [
+            "defenseAdditionRate",
+            0.8695682623151035
+          ],
+          [
+            "attackAdditionVal",
+            0.9751967786252872
+          ],
+          [
+            "critRateAdditionVal",
+            0.8334865001377695
+          ],
+          [
+            "critRateAdditionVal",
+            0.8677853423808807
+          ],
+          [
+            "critRateAdditionVal",
+            0.8426546119680971
+          ],
+          [
+            "critPowerAdditionVal",
+            0.8168436909074701
+          ]
+        ],
+        "name": "针女",
+        "discard_time": 0,
+        "level": 15,
+        "newGet": 0,
+        "lock": false,
+        "base_rindex": 3,
+        "pos": 2,
+        "qua": 6,
+        "suitid": 300036,
+        "isuseless": false,
+        "attrs": [
+          [
+            "速度",
+            "57"
+          ],
+          [
+            "攻击",
+            "26"
+          ],
+          [
+            "防御加成",
+            "3%"
+          ],
+          [
+            "暴击伤害",
+            "7%"
+          ],
+          [
+            "暴击",
+            "10%"
+          ]
+        ],
+        "exp": 1000,
+        "base_r": 1.0,
+        "uuid": "5980a5007374c469acdd4c2e"
+      },
+      "5d1201d458492d0d22339a5b": {
+        "itemId": 140006,
+        "herouid": "59148ae4baa9a36f11ea174c",
+        "rattr": [
+          [
+            "critPowerAdditionVal",
+            0.8023634815619177
+          ],
+          [
+            "maxHpAdditionVal",
+            0.987353970094704
+          ],
+          [
+            "attackAdditionVal",
+            0.9415544371377154
+          ],
+          [
+            "defenseAdditionVal",
+            0.8454940961039812
+          ],
+          [
+            "maxHpAdditionVal",
+            0.8336915356829568
+          ],
+          [
+            "maxHpAdditionVal",
+            0.8650706644010816
+          ],
+          [
+            "attackAdditionVal",
+            0.9379082112898257
+          ],
+          [
+            "maxHpAdditionVal",
+            0.9107440144686035
+          ],
+          [
+            "maxHpAdditionVal",
+            0.8850354003547815
+          ]
+        ],
+        "name": "三味",
+        "discard_time": 0,
+        "level": 15,
+        "newGet": 0,
+        "lock": true,
+        "base_rindex": 0,
+        "pos": 4,
+        "qua": 6,
+        "suitid": 300007,
+        "isuseless": false,
+        "attrs": [
+          [
+            "攻击加成",
+            "55%"
+          ],
+          [
+            "攻击",
+            "51"
+          ],
+          [
+            "防御",
+            "4"
+          ],
+          [
+            "暴击伤害",
+            "3%"
+          ],
+          [
+            "生命",
+            "511"
+          ]
+        ],
+        "exp": 0,
+        "base_r": 1.0,
+        "uuid": "5d1201d458492d0d22339a5b"
+      },
+      "596b68f67374c403a4cf2b96": {
+        "itemId": 160005,
+        "herouid": "5954cca27374c45d9ec6c1fb",
+        "rattr": [
+          [
+            "attackAdditionRate",
+            0.7572650072484156
+          ],
+          [
+            "defenseAdditionRate",
+            0.7420116657676721
+          ],
+          [
+            "speedAdditionVal",
+            0.7169020317637059
+          ],
+          [
+            "debuffEnhance",
+            0.733743937964699
+          ],
+          [
+            "defenseAdditionRate",
+            0.702489052950227
+          ],
+          [
+            "speedAdditionVal",
+            0.7854989515835863
+          ],
+          [
+            "speedAdditionVal",
+            0.7472358545813512
+          ]
+        ],
+        "name": "树妖",
+        "discard_time": 0,
+        "level": 15,
+        "newGet": 0,
+        "lock": false,
+        "base_rindex": 2,
+        "pos": 6,
+        "qua": 5,
+        "suitid": 300024,
+        "isuseless": false,
+        "attrs": [
+          [
+            "生命加成",
+            "38%"
+          ],
+          [
+            "攻击加成",
+            "2%"
+          ],
+          [
+            "防御加成",
+            "4%"
+          ],
+          [
+            "速度",
+            "7"
+          ],
+          [
+            "效果命中",
+            "3%"
+          ]
+        ],
+        "exp": 500,
+        "base_r": 1.0,
+        "uuid": "596b68f67374c403a4cf2b96"
+      },
+      "5d0f102a58492d0d2225316a": {
+        "itemId": 140005,
+        "rattr": [
+          [
+            "debuffResist",
+            0.7455373383081956
+          ],
+          [
+            "maxHpAdditionRate",
+            0.7571940362983299
+          ],
+          [
+            "defenseAdditionRate",
+            0.7307059232040684
+          ],
+          [
+            "maxHpAdditionVal",
+            0.7005092266638936
+          ],
+          [
+            "maxHpAdditionVal",
+            0.7960391813565663
+          ],
+          [
+            "maxHpAdditionRate",
+            0.7183103676340925
+          ],
+          [
+            "debuffResist",
+            0.748105248521109
+          ]
+        ],
+        "name": "招财猫",
+        "discard_time": 0,
+        "level": 15,
+        "newGet": 0,
+        "lock": true,
+        "base_rindex": 2,
+        "pos": 4,
+        "qua": 5,
+        "suitid": 300010,
+        "isuseless": false,
+        "attrs": [
+          [
+            "生命加成",
+            "38%"
+          ],
+          [
+            "效果抵抗",
+            "6%"
+          ],
+          [
+            "防御加成",
+            "2%"
+          ],
+          [
+            "生命加成",
+            "4%"
+          ],
+          [
+            "生命",
+            "171"
+          ]
+        ],
+        "exp": 0,
+        "base_r": 1.0,
+        "uuid": "5d0f102a58492d0d2225316a"
+      },
+      "5d136d8358492d52c52017f9": {
+        "itemId": 130006,
+        "herouid": "5911e981baa9a36f11e8004d",
+        "rattr": [
+          [
+            "debuffEnhance",
+            0.9637725844909181
+          ],
+          [
+            "critPowerAdditionVal",
+            0.9768770155831122
+          ],
+          [
+            "speedAdditionVal",
+            0.8678531785317288
+          ],
+          [
+            "debuffResist",
+            0.9897481805386199
+          ]
+        ],
+        "name": "针女",
+        "discard_time": 0,
+        "level": 0,
+        "newGet": 0,
+        "lock": false,
+        "base_rindex": 1,
+        "pos": 3,
+        "qua": 6,
+        "suitid": 300036,
+        "isuseless": false,
+        "attrs": [
+          [
+            "防御",
+            "14"
+          ],
+          [
+            "效果抵抗",
+            "4%"
+          ],
+          [
+            "速度",
+            "3"
+          ],
+          [
+            "暴击伤害",
+            "4%"
+          ],
+          [
+            "效果命中",
+            "4%"
+          ]
+        ],
+        "base_r": 1.0,
+        "uuid": "5d136d8358492d52c52017f9"
+      },
+      "595d11cb7374c46929f3b2b9": {
+        "itemId": 160004,
+        "herouid": "5e6b317e7b7823472014e1be",
+        "rattr": [
+          [
+            "attackAdditionVal",
+            0.614809531488205
+          ],
+          [
+            "debuffEnhance",
+            0.6012632843968504
+          ],
+          [
+            "attackAdditionRate",
+            0.632579218135286
+          ],
+          [
+            "critRateAdditionVal",
+            0.6902828416566787
+          ],
+          [
+            "attackAdditionRate",
+            0.6587177149989254
+          ],
+          [
+            "critRateAdditionVal",
+            0.6642341637667104
+          ],
+          [
+            "attackAdditionRate",
+            0.6046657280485795
+          ],
+          [
+            "attackAdditionRate",
+            0.6396091616821239
+          ]
+        ],
+        "name": "针女",
+        "discard_time": 0,
+        "level": 15,
+        "newGet": 0,
+        "lock": false,
+        "base_rindex": 4,
+        "pos": 6,
+        "qua": 4,
+        "suitid": 300036,
+        "isuseless": false,
+        "attrs": [
+          [
+            "暴击",
+            "36%"
+          ],
+          [
+            "攻击",
+            "17"
+          ],
+          [
+            "攻击加成",
+            "8%"
+          ],
+          [
+            "暴击",
+            "4%"
+          ],
+          [
+            "效果命中",
+            "2%"
+          ]
+        ],
+        "exp": 750,
+        "base_r": 1.0,
+        "uuid": "595d11cb7374c46929f3b2b9"
+      },
+      "5d1e0d6158492d444ce42771": {
+        "itemId": 150006,
+        "herouid": "5911e981baa9a36f11e8004d",
+        "rattr": [
+          [
+            "debuffEnhance",
+            0.8823744417517682
+          ],
+          [
+            "defenseAdditionVal",
+            0.8559654002593624
+          ],
+          [
+            "debuffResist",
+            0.9936706545988618
+          ],
+          [
+            "maxHpAdditionVal",
+            0.8060660825983325
+          ]
+        ],
+        "name": "针女",
+        "discard_time": 0,
+        "level": 0,
+        "newGet": 0,
+        "lock": false,
+        "base_rindex": 2,
+        "pos": 5,
+        "qua": 6,
+        "suitid": 300036,
+        "isuseless": false,
+        "attrs": [
+          [
+            "生命",
+            "342"
+          ],
+          [
+            "效果抵抗",
+            "4%"
+          ],
+          [
+            "防御",
+            "4"
+          ],
+          [
+            "效果命中",
+            "4%"
+          ],
+          [
+            "生命",
+            "92"
+          ]
+        ],
+        "base_r": 1.0,
+        "uuid": "5d1e0d6158492d444ce42771"
+      },
+      "5e6cde307b7823472029d40f": {
+        "itemId": 110006,
+        "herouid": "5954cca27374c45d9ec6c1fb",
+        "rattr": [
+          [
+            "critRateAdditionVal",
+            0.9315566522784998
+          ],
+          [
+            "speedAdditionVal",
+            0.9533243896829692
+          ],
+          [
+            "maxHpAdditionVal",
+            0.9593297049842642
+          ],
+          [
+            "defenseAdditionVal",
+            0.9454536973767523
+          ],
+          [
+            "speedAdditionVal",
+            0.9529203197720351
+          ],
+          [
+            "speedAdditionVal",
+            0.9242980684098181
+          ],
+          [
+            "critRateAdditionVal",
+            0.8187295678746126
+          ],
+          [
+            "critRateAdditionVal",
+            0.812373198910247
+          ]
+        ],
+        "name": "被服",
+        "level": 15,
+        "newGet": 0,
+        "lock": true,
+        "base_rindex": 0,
+        "pos": 1,
+        "qua": 6,
+        "suitid": 300009,
+        "isuseless": false,
+        "attrs": [
+          [
+            "攻击",
+            "486"
+          ],
+          [
+            "速度",
+            "8"
+          ],
+          [
+            "防御",
+            "5"
+          ],
+          [
+            "暴击",
+            "8%"
+          ],
+          [
+            "生命",
+            "109"
+          ]
+        ],
+        "exp": 0,
+        "base_r": 1.0,
+        "uuid": "5e6cde307b7823472029d40f"
+      },
+      "5d0f0d7958492d0d22252781": {
+        "itemId": 110006,
+        "herouid": "5d38238d58492d2dc2a33894",
+        "rattr": [
+          [
+            "maxHpAdditionVal",
+            0.9225546679998372
+          ],
+          [
+            "attackAdditionVal",
+            0.8812166523799274
+          ]
+        ],
+        "name": "蚌精",
+        "discard_time": 0,
+        "level": 0,
+        "newGet": 0,
+        "lock": false,
+        "base_rindex": 0,
+        "pos": 1,
+        "qua": 6,
+        "suitid": 300034,
+        "isuseless": false,
+        "attrs": [
+          [
+            "攻击",
+            "81"
+          ],
+          [
+            "攻击",
+            "24"
+          ],
+          [
+            "生命",
+            "105"
+          ]
+        ],
+        "base_r": 1.0,
+        "uuid": "5d0f0d7958492d0d22252781"
+      },
+      "5d0cc89e58492d0d221cde4d": {
+        "itemId": 120006,
+        "herouid": "5d38238d58492d2dc2a33894",
+        "rattr": [
+          [
+            "attackAdditionVal",
+            0.8554312176929886
+          ],
+          [
+            "defenseAdditionVal",
+            0.827108011081158
+          ]
+        ],
+        "name": "树妖",
+        "discard_time": 0,
+        "level": 0,
+        "newGet": 0,
+        "lock": false,
+        "base_rindex": 2,
+        "pos": 2,
+        "qua": 6,
+        "suitid": 300024,
+        "isuseless": false,
+        "attrs": [
+          [
+            "生命加成",
+            "10%"
+          ],
+          [
+            "攻击",
+            "23"
+          ],
+          [
+            "防御",
+            "4"
+          ]
+        ],
+        "base_r": 1.0,
+        "uuid": "5d0cc89e58492d0d221cde4d"
+      },
+      "5d0cc8ab58492d0d221cdec0": {
+        "itemId": 160006,
+        "herouid": "5e71d0fb21510f882004386b",
+        "rattr": [
+          [
+            "maxHpAdditionRate",
+            0.9299758006671128
+          ],
+          [
+            "defenseAdditionRate",
+            0.8125018247058758
+          ],
+          [
+            "defenseAdditionRate",
+            0.8238954478019823
+          ],
+          [
+            "attackAdditionVal",
+            0.9501909587598292
+          ],
+          [
+            "speedAdditionVal",
+            0.9022608038437093
+          ],
+          [
+            "maxHpAdditionRate",
+            0.9907238587494467
+          ],
+          [
+            "maxHpAdditionRate",
+            0.9808485890445807
+          ]
+        ],
+        "name": "针女",
+        "discard_time": 0,
+        "level": 15,
+        "newGet": 0,
+        "lock": true,
+        "base_rindex": 4,
+        "pos": 6,
+        "qua": 6,
+        "suitid": 300036,
+        "isuseless": false,
+        "attrs": [
+          [
+            "暴击",
+            "55%"
+          ],
+          [
+            "攻击",
+            "26"
+          ],
+          [
+            "防御加成",
+            "5%"
+          ],
+          [
+            "速度",
+            "3"
+          ],
+          [
+            "生命加成",
+            "9%"
+          ]
+        ],
+        "exp": 0,
+        "base_r": 1.0,
+        "uuid": "5d0cc8ab58492d0d221cdec0"
+      },
+      "598c17018c99ba33300d557b": {
+        "itemId": 130005,
+        "herouid": "5e6b317e7b7823472014e1be",
+        "rattr": [
+          [
+            "speedAdditionVal",
+            0.7196477545393565
+          ],
+          [
+            "critRateAdditionVal",
+            0.7682410304265759
+          ],
+          [
+            "debuffResist",
+            0.7755927760302443
+          ],
+          [
+            "defenseAdditionRate",
+            0.7284819515090308
+          ],
+          [
+            "speedAdditionVal",
+            0.7160331940359225
+          ],
+          [
+            "defenseAdditionRate",
+            0.763934010454505
+          ],
+          [
+            "speedAdditionVal",
+            0.7900048703907846
+          ],
+          [
+            "defenseAdditionRate",
+            0.795845852081249
+          ]
+        ],
+        "name": "针女",
+        "discard_time": 0,
+        "level": 15,
+        "newGet": 0,
+        "lock": true,
+        "base_rindex": 1,
+        "pos": 3,
+        "qua": 5,
+        "suitid": 300036,
+        "isuseless": false,
+        "attrs": [
+          [
+            "防御",
+            "86"
+          ],
+          [
+            "效果抵抗",
+            "3%"
+          ],
+          [
+            "防御加成",
+            "7%"
+          ],
+          [
+            "速度",
+            "7"
+          ],
+          [
+            "暴击",
+            "2%"
+          ]
+        ],
+        "exp": 0,
+        "base_r": 1.0,
+        "uuid": "598c17018c99ba33300d557b"
+      },
+      "599550c68c99ba3c91b8ba40": {
+        "itemId": 110006,
+        "herouid": "5e71d0fb21510f882004386b",
+        "rattr": [
+          [
+            "debuffResist",
+            0.9203513807825703
+          ],
+          [
+            "debuffEnhance",
+            0.8357548020879261
+          ],
+          [
+            "speedAdditionVal",
+            0.8706327851020607
+          ],
+          [
+            "critPowerAdditionVal",
+            0.8544822235717834
+          ],
+          [
+            "speedAdditionVal",
+            0.8582183250568657
+          ],
+          [
+            "debuffEnhance",
+            0.8260209205774224
+          ],
+          [
+            "debuffEnhance",
+            0.9994698322543243
+          ],
+          [
+            "debuffEnhance",
+            0.9238651975735119
+          ]
+        ],
+        "name": "针女",
+        "discard_time": 0,
+        "level": 15,
+        "newGet": 0,
+        "lock": true,
+        "base_rindex": 0,
+        "pos": 1,
+        "qua": 6,
+        "suitid": 300036,
+        "isuseless": false,
+        "attrs": [
+          [
+            "攻击",
+            "486"
+          ],
+          [
+            "效果抵抗",
+            "4%"
+          ],
+          [
+            "速度",
+            "5"
+          ],
+          [
+            "暴击伤害",
+            "3%"
+          ],
+          [
+            "效果命中",
+            "14%"
+          ]
+        ],
+        "exp": 500,
+        "base_r": 1.0,
+        "uuid": "599550c68c99ba3c91b8ba40"
+      },
+      "5d14256658492d52c525e9ba": {
+        "itemId": 150005,
+        "herouid": "59148ae4baa9a36f11ea174c",
+        "rattr": [
+          [
+            "critPowerAdditionVal",
+            0.7247635857967508
+          ],
+          [
+            "critRateAdditionVal",
+            0.7367578933677716
+          ],
+          [
+            "maxHpAdditionRate",
+            0.7845149781389679
+          ],
+          [
+            "debuffResist",
+            0.7149193458017942
+          ],
+          [
+            "critPowerAdditionVal",
+            0.7084655925259581
+          ],
+          [
+            "critRateAdditionVal",
+            0.7739213937714304
+          ],
+          [
+            "debuffResist",
+            0.735464924894002
+          ],
+          [
+            "debuffResist",
+            0.7247258188734524
+          ]
+        ],
+        "name": "针女",
+        "discard_time": 0,
+        "level": 15,
+        "newGet": 0,
+        "lock": true,
+        "base_rindex": 2,
+        "pos": 5,
+        "qua": 5,
+        "suitid": 300036,
+        "isuseless": false,
+        "attrs": [
+          [
+            "生命",
+            "1654"
+          ],
+          [
+            "效果抵抗",
+            "9%"
+          ],
+          [
+            "暴击伤害",
+            "6%"
+          ],
+          [
+            "暴击",
+            "5%"
+          ],
+          [
+            "生命加成",
+            "2%"
+          ]
+        ],
+        "exp": 0,
+        "base_r": 1.0,
+        "uuid": "5d14256658492d52c525e9ba"
+      },
+      "59946f998c99ba3c8a9908cc": {
+        "itemId": 130006,
+        "herouid": "59664d847374c403a4c9c0d4",
+        "rattr": [
+          [
+            "debuffEnhance",
+            0.9368976398380223
+          ],
+          [
+            "debuffResist",
+            0.8023330075803813
+          ],
+          [
+            "attackAdditionRate",
+            0.9730880569430387
+          ]
+        ],
+        "name": "树妖",
+        "discard_time": 0,
+        "level": 0,
+        "newGet": 0,
+        "lock": false,
+        "base_rindex": 1,
+        "pos": 3,
+        "qua": 6,
+        "suitid": 300024,
+        "isuseless": false,
+        "attrs": [
+          [
+            "防御",
+            "14"
+          ],
+          [
+            "攻击加成",
+            "3%"
+          ],
+          [
+            "效果抵抗",
+            "3%"
+          ],
+          [
+            "效果命中",
+            "4%"
+          ]
+        ],
+        "base_r": 1.0,
+        "uuid": "59946f998c99ba3c8a9908cc"
+      },
+      "5991972d8c99ba3330177435": {
+        "itemId": 140006,
+        "herouid": "5954cc727374c45d9ec6c0ef",
+        "rattr": [
+          [
+            "attackAdditionRate",
+            0.9812223971942807
+          ],
+          [
+            "defenseAdditionRate",
+            0.8575579471500313
+          ],
+          [
+            "maxHpAdditionRate",
+            0.8215396134650895
+          ],
+          [
+            "attackAdditionVal",
+            0.8656953747313154
+          ],
+          [
+            "defenseAdditionRate",
+            0.9823046714757385
+          ],
+          [
+            "defenseAdditionRate",
+            0.8648187819263771
+          ],
+          [
+            "defenseAdditionRate",
+            0.8646106711258198
+          ],
+          [
+            "defenseAdditionRate",
+            0.9164330141444533
+          ]
+        ],
+        "name": "三味",
+        "discard_time": 0,
+        "level": 15,
+        "newGet": 0,
+        "lock": false,
+        "base_rindex": 0,
+        "pos": 4,
+        "qua": 6,
+        "suitid": 300007,
+        "isuseless": false,
+        "attrs": [
+          [
+            "攻击加成",
+            "55%"
+          ],
+          [
+            "攻击",
+            "23"
+          ],
+          [
+            "防御加成",
+            "13%"
+          ],
+          [
+            "攻击加成",
+            "3%"
+          ],
+          [
+            "生命加成",
+            "2%"
+          ]
+        ],
+        "exp": 28000,
+        "base_r": 1.0,
+        "uuid": "5991972d8c99ba3330177435"
+      },
+      "5d19fdc058492d52c55d528c": {
+        "itemId": 150006,
+        "herouid": "5962fbfb7374c403a4c5c94f",
+        "rattr": [
+          [
+            "speedAdditionVal",
+            0.8624506133863039
+          ],
+          [
+            "defenseAdditionRate",
+            0.8472005120202571
+          ],
+          [
+            "defenseAdditionVal",
+            0.8760470160451399
+          ],
+          [
+            "maxHpAdditionVal",
+            0.8826526393686143
+          ],
+          [
+            "maxHpAdditionVal",
+            0.8776832678871423
+          ],
+          [
+            "defenseAdditionVal",
+            0.8528306405769531
+          ],
+          [
+            "defenseAdditionRate",
+            0.9833560801536125
+          ],
+          [
+            "maxHpAdditionVal",
+            0.8462186877806924
+          ]
+        ],
+        "name": "地藏像",
+        "discard_time": 0,
+        "level": 15,
+        "newGet": 0,
+        "lock": true,
+        "base_rindex": 2,
+        "pos": 5,
+        "qua": 6,
+        "suitid": 300003,
+        "isuseless": false,
+        "attrs": [
+          [
+            "生命",
+            "2052"
+          ],
+          [
+            "防御加成",
+            "5%"
+          ],
+          [
+            "速度",
+            "3"
+          ],
+          [
+            "防御",
+            "9"
+          ],
+          [
+            "生命",
+            "297"
+          ]
+        ],
+        "exp": 0,
+        "base_r": 1.0,
+        "uuid": "5d19fdc058492d52c55d528c"
+      },
+      "5d0edee258492d0d22248a13": {
+        "itemId": 130005,
+        "herouid": "59148ae4baa9a36f11ea174c",
+        "rattr": [
+          [
+            "debuffEnhance",
+            0.7262858577897043
+          ],
+          [
+            "critRateAdditionVal",
+            0.7470873942410198
+          ],
+          [
+            "maxHpAdditionVal",
+            0.7215820435415542
+          ],
+          [
+            "critRateAdditionVal",
+            0.7961615696445572
+          ],
+          [
+            "maxHpAdditionRate",
+            0.7140904457180273
+          ],
+          [
+            "debuffEnhance",
+            0.7004225379583445
+          ],
+          [
+            "critRateAdditionVal",
+            0.7468674333669254
+          ],
+          [
+            "maxHpAdditionRate",
+            0.7904790772705179
+          ]
+        ],
+        "name": "针女",
+        "discard_time": 0,
+        "level": 15,
+        "newGet": 0,
+        "lock": true,
+        "base_rindex": 1,
+        "pos": 3,
+        "qua": 5,
+        "suitid": 300036,
+        "isuseless": false,
+        "attrs": [
+          [
+            "防御",
+            "86"
+          ],
+          [
+            "效果命中",
+            "6%"
+          ],
+          [
+            "暴击",
+            "7%"
+          ],
+          [
+            "生命加成",
+            "5%"
+          ],
+          [
+            "生命",
+            "82"
+          ]
+        ],
+        "exp": 11250,
+        "base_r": 1.0,
+        "uuid": "5d0edee258492d0d22248a13"
+      },
+      "59147692baa9a36f11e9f798": {
+        "itemId": 110006,
+        "herouid": "5e6b317e7b7823472014e1be",
+        "rattr": [
+          [
+            "defenseAdditionRate",
+            0.8700129301096098
+          ],
+          [
+            "attackAdditionRate",
+            0.8711806500826733
+          ],
+          [
+            "attackAdditionVal",
+            0.9449825705269379
+          ],
+          [
+            "critRateAdditionVal",
+            0.8936858378827884
+          ],
+          [
+            "attackAdditionRate",
+            0.9641043398394689
+          ],
+          [
+            "attackAdditionRate",
+            0.9857356955132224
+          ],
+          [
+            "attackAdditionVal",
+            0.9188865593261611
+          ]
+        ],
+        "name": "三味",
+        "discard_time": 0,
+        "level": 15,
+        "newGet": 0,
+        "lock": false,
+        "base_rindex": 0,
+        "pos": 1,
+        "qua": 6,
+        "suitid": 300007,
+        "isuseless": false,
+        "attrs": [
+          [
+            "攻击",
+            "486"
+          ],
+          [
+            "攻击",
+            "50"
+          ],
+          [
+            "防御加成",
+            "3%"
+          ],
+          [
+            "攻击加成",
+            "8%"
+          ],
+          [
+            "暴击",
+            "3%"
+          ]
+        ],
+        "exp": 750,
+        "base_r": 1.0,
+        "uuid": "59147692baa9a36f11e9f798"
+      },
+      "598c18308c99ba33300d56a2": {
+        "itemId": 110005,
+        "herouid": "59664d847374c403a4c9c0d4",
+        "rattr": [
+          [
+            "attackAdditionVal",
+            0.792570566658484
+          ],
+          [
+            "defenseAdditionRate",
+            0.7935278197279226
+          ],
+          [
+            "maxHpAdditionVal",
+            0.7842554221460246
+          ]
+        ],
+        "name": "树妖",
+        "discard_time": 0,
+        "level": 0,
+        "newGet": 0,
+        "lock": false,
+        "base_rindex": 0,
+        "pos": 1,
+        "qua": 5,
+        "suitid": 300024,
+        "isuseless": false,
+        "attrs": [
+          [
+            "攻击",
+            "65"
+          ],
+          [
+            "攻击",
+            "21"
+          ],
+          [
+            "防御加成",
+            "2%"
+          ],
+          [
+            "生命",
+            "89"
+          ]
+        ],
+        "base_r": 1.0,
+        "uuid": "598c18308c99ba33300d56a2"
+      },
+      "5d11b0419f3e05470e4ca9e9": {
+        "itemId": 110005,
+        "herouid": "5d47bd9e58492d328c63f39a",
+        "rattr": [
+          [
+            "debuffResist",
+            0.7449473526953277
+          ],
+          [
+            "maxHpAdditionVal",
+            0.7260586854465885
+          ],
+          [
+            "defenseAdditionVal",
+            0.7093172195164649
+          ]
+        ],
+        "name": "网切",
+        "discard_time": 0,
+        "level": 0,
+        "newGet": 0,
+        "lock": false,
+        "base_rindex": 0,
+        "pos": 1,
+        "qua": 5,
+        "suitid": 300026,
+        "isuseless": false,
+        "attrs": [
+          [
+            "攻击",
+            "65"
+          ],
+          [
+            "效果抵抗",
+            "3%"
+          ],
+          [
+            "防御",
+            "4"
+          ],
+          [
+            "生命",
+            "83"
+          ]
+        ],
+        "base_r": 1.0,
+        "uuid": "5d11b0419f3e05470e4ca9e9"
+      },
+      "5e6f458b7b782347204006c4": {
+        "itemId": 150006,
+        "herouid": "5954cc727374c45d9ec6c0ef",
+        "rattr": [
+          [
+            "attackAdditionRate",
+            0.928693004704956
+          ],
+          [
+            "defenseAdditionVal",
+            0.8414366715272864
+          ],
+          [
+            "maxHpAdditionVal",
+            0.927058962241631
+          ],
+          [
+            "attackAdditionRate",
+            0.8393282193689273
+          ],
+          [
+            "maxHpAdditionRate",
+            0.9345542931286546
+          ],
+          [
+            "attackAdditionRate",
+            0.8263374635142893
+          ],
+          [
+            "defenseAdditionVal",
+            0.8480163172932815
+          ]
+        ],
+        "name": "针女",
+        "level": 15,
+        "newGet": 0,
+        "lock": true,
+        "base_rindex": 2,
+        "pos": 5,
+        "qua": 6,
+        "suitid": 300036,
+        "isuseless": false,
+        "attrs": [
+          [
+            "生命",
+            "2052"
+          ],
+          [
+            "攻击加成",
+            "8%"
+          ],
+          [
+            "防御",
+            "8"
+          ],
+          [
+            "生命加成",
+            "3%"
+          ],
+          [
+            "生命",
+            "106"
+          ]
+        ],
+        "exp": 8750,
+        "base_r": 1.0,
+        "uuid": "5e6f458b7b782347204006c4"
+      },
+      "5d0dd6a258492d0d221fe5cc": {
+        "itemId": 150006,
+        "herouid": "5e71d0fb21510f882004386b",
+        "rattr": [
+          [
+            "defenseAdditionRate",
+            0.8793532566659062
+          ],
+          [
+            "critPowerAdditionVal",
+            0.8567159326334357
+          ],
+          [
+            "debuffEnhance",
+            0.9718355899650005
+          ],
+          [
+            "debuffResist",
+            0.8024068299576146
+          ],
+          [
+            "debuffResist",
+            0.9903093879054207
+          ],
+          [
+            "debuffEnhance",
+            0.9426101280214816
+          ],
+          [
+            "debuffResist",
+            0.9224827643719997
+          ],
+          [
+            "debuffResist",
+            0.9307316348662954
+          ]
+        ],
+        "name": "针女",
+        "discard_time": 0,
+        "level": 15,
+        "newGet": 0,
+        "lock": true,
+        "base_rindex": 2,
+        "pos": 5,
+        "qua": 6,
+        "suitid": 300036,
+        "isuseless": false,
+        "attrs": [
+          [
+            "生命",
+            "2052"
+          ],
+          [
+            "效果抵抗",
+            "15%"
+          ],
+          [
+            "防御加成",
+            "3%"
+          ],
+          [
+            "暴击伤害",
+            "3%"
+          ],
+          [
+            "效果命中",
+            "8%"
+          ]
+        ],
+        "exp": 0,
+        "base_r": 1.0,
+        "uuid": "5d0dd6a258492d0d221fe5cc"
+      },
+      "595d11227374c46929f3b25b": {
+        "itemId": 150004,
+        "rattr": [
+          [
+            "critPowerAdditionVal",
+            0.6797520569948663
+          ],
+          [
+            "attackAdditionRate",
+            0.6322807602772341
+          ],
+          [
+            "maxHpAdditionRate",
+            0.699387767191966
+          ],
+          [
+            "maxHpAdditionVal",
+            0.6303334666460895
+          ],
+          [
+            "critPowerAdditionVal",
+            0.6998775288294953
+          ],
+          [
+            "critPowerAdditionVal",
+            0.6282401443122099
+          ],
+          [
+            "critPowerAdditionVal",
+            0.6434671234877182
+          ],
+          [
+            "maxHpAdditionVal",
+            0.6273988118871414
+          ]
+        ],
+        "name": "针女",
+        "discard_time": 0,
+        "level": 15,
+        "newGet": 0,
+        "lock": false,
+        "base_rindex": 2,
+        "pos": 5,
+        "qua": 4,
+        "suitid": 300036,
+        "isuseless": false,
+        "attrs": [
+          [
+            "生命",
+            "1241"
+          ],
+          [
+            "攻击加成",
+            "2%"
+          ],
+          [
+            "暴击伤害",
+            "11%"
+          ],
+          [
+            "生命加成",
+            "2%"
+          ],
+          [
+            "生命",
+            "143"
+          ]
+        ],
+        "exp": 250,
+        "base_r": 1.0,
+        "uuid": "595d11227374c46929f3b25b"
+      },
+      "5e72eb3921510f88200af5a9": {
+        "itemId": 150006,
+        "herouid": "5d38238d58492d2dc2a33894",
+        "rattr": [
+          [
+            "debuffEnhance",
+            0.846330376668474
+          ],
+          [
+            "attackAdditionRate",
+            0.8275850150242327
+          ],
+          [
+            "defenseAdditionRate",
+            0.9989534580038582
+          ]
+        ],
+        "name": "蚌精",
+        "level": 0,
+        "newGet": 0,
+        "lock": false,
+        "base_rindex": 2,
+        "pos": 5,
+        "qua": 6,
+        "suitid": 300034,
+        "isuseless": false,
+        "attrs": [
+          [
+            "生命",
+            "342"
+          ],
+          [
+            "攻击加成",
+            "2%"
+          ],
+          [
+            "防御加成",
+            "3%"
+          ],
+          [
+            "效果命中",
+            "3%"
+          ]
+        ],
+        "base_r": 1.0,
+        "uuid": "5e72eb3921510f88200af5a9"
+      },
+      "596077e97374c403a4c26ad8": {
+        "itemId": 120005,
+        "herouid": "5e6b317e7b7823472014e1be",
+        "rattr": [
+          [
+            "defenseAdditionVal",
+            0.7468459164578133
+          ],
+          [
+            "debuffEnhance",
+            0.7715792963885794
+          ],
+          [
+            "critRateAdditionVal",
+            0.7065639815973951
+          ],
+          [
+            "critRateAdditionVal",
+            0.7584071847054006
+          ],
+          [
+            "defenseAdditionVal",
+            0.7814046865185573
+          ],
+          [
+            "attackAdditionVal",
+            0.7970978630621741
+          ],
+          [
+            "defenseAdditionVal",
+            0.7204945606745131
+          ]
+        ],
+        "name": "针女",
+        "discard_time": 0,
+        "level": 15,
+        "newGet": 0,
+        "lock": false,
+        "base_rindex": 0,
+        "pos": 2,
+        "qua": 5,
+        "suitid": 300036,
+        "isuseless": false,
+        "attrs": [
+          [
+            "攻击加成",
+            "38%"
+          ],
+          [
+            "攻击",
+            "22"
+          ],
+          [
+            "防御",
+            "11"
+          ],
+          [
+            "暴击",
+            "4%"
+          ],
+          [
+            "效果命中",
+            "3%"
+          ]
+        ],
+        "exp": 1000,
+        "base_r": 1.0,
+        "uuid": "596077e97374c403a4c26ad8"
+      },
+      "5d1e0bb858492d444ce42099": {
+        "itemId": 120006,
+        "herouid": "5911e981baa9a36f11e8004d",
+        "rattr": [
+          [
+            "critRateAdditionVal",
+            0.8064613657194541
+          ],
+          [
+            "maxHpAdditionRate",
+            0.9051465678272387
+          ],
+          [
+            "attackAdditionRate",
+            0.8304334580193233
+          ],
+          [
+            "defenseAdditionVal",
+            0.9653962772353807
+          ],
+          [
+            "critRateAdditionVal",
+            0.9384377751907818
+          ],
+          [
+            "defenseAdditionVal",
+            0.8247304878876115
+          ],
+          [
+            "defenseAdditionVal",
+            0.9330918400857068
+          ]
+        ],
+        "name": "针女",
+        "discard_time": 0,
+        "level": 15,
+        "newGet": 0,
+        "lock": true,
+        "base_rindex": 0,
+        "pos": 2,
+        "qua": 6,
+        "suitid": 300036,
+        "isuseless": false,
+        "attrs": [
+          [
+            "攻击加成",
+            "55%"
+          ],
+          [
+            "攻击加成",
+            "2%"
+          ],
+          [
+            "防御",
+            "14"
+          ],
+          [
+            "暴击",
+            "5%"
+          ],
+          [
+            "生命加成",
+            "3%"
+          ]
+        ],
+        "exp": 0,
+        "base_r": 1.0,
+        "uuid": "5d1e0bb858492d444ce42099"
+      },
+      "5e6b90967b782347201a9196": {
+        "itemId": 140006,
+        "herouid": "5911e981baa9a36f11e8004d",
+        "rattr": [
+          [
+            "critPowerAdditionVal",
+            0.8923180094477459
+          ],
+          [
+            "debuffResist",
+            0.8060182294681028
+          ],
+          [
+            "maxHpAdditionRate",
+            0.974079490753559
+          ],
+          [
+            "speedAdditionVal",
+            0.885211722945411
+          ],
+          [
+            "speedAdditionVal",
+            0.9664003475721225
+          ],
+          [
+            "critPowerAdditionVal",
+            0.8400834402137092
+          ],
+          [
+            "maxHpAdditionRate",
+            0.9351571961297431
+          ],
+          [
+            "maxHpAdditionRate",
+            0.8763757925029497
+          ],
+          [
+            "critPowerAdditionVal",
+            0.8005707326655229
+          ]
+        ],
+        "name": "破势",
+        "level": 15,
+        "newGet": 0,
+        "lock": true,
+        "base_rindex": 0,
+        "pos": 4,
+        "qua": 6,
+        "suitid": 300030,
+        "isuseless": false,
+        "attrs": [
+          [
+            "攻击加成",
+            "55%"
+          ],
+          [
+            "效果抵抗",
+            "3%"
+          ],
+          [
+            "速度",
+            "6"
+          ],
+          [
+            "暴击伤害",
+            "10%"
+          ],
+          [
+            "生命加成",
+            "8%"
+          ]
+        ],
+        "exp": 12250,
+        "base_r": 1.0,
+        "uuid": "5e6b90967b782347201a9196"
+      },
+      "5d1e115858492d444ce43d62": {
+        "itemId": 140005,
+        "herouid": "5e6b317e7b7823472014e1be",
+        "rattr": [
+          [
+            "maxHpAdditionRate",
+            0.7586603538849654
+          ],
+          [
+            "debuffEnhance",
+            0.7656358168818442
+          ],
+          [
+            "speedAdditionVal",
+            0.7832423855309378
+          ],
+          [
+            "debuffEnhance",
+            0.7077015792152107
+          ]
+        ],
+        "name": "针女",
+        "discard_time": 0,
+        "level": 4,
+        "newGet": 0,
+        "lock": false,
+        "base_rindex": 0,
+        "pos": 4,
+        "qua": 5,
+        "suitid": 300036,
+        "isuseless": false,
+        "attrs": [
+          [
+            "攻击加成",
+            "16%"
+          ],
+          [
+            "速度",
+            "2"
+          ],
+          [
+            "生命加成",
+            "2%"
+          ],
+          [
+            "效果命中",
+            "6%"
+          ]
+        ],
+        "exp": 5250,
+        "base_r": 1.0,
+        "uuid": "5d1e115858492d444ce43d62"
+      },
+      "59953d628c99ba3c91b8a286": {
+        "itemId": 120006,
+        "herouid": "59664d847374c403a4c9c0d4",
+        "rattr": [
+          [
+            "maxHpAdditionRate",
+            0.8013701566104571
+          ],
+          [
+            "attackAdditionRate",
+            0.8802777548492794
+          ],
+          [
+            "debuffEnhance",
+            0.9099464572109798
+          ],
+          [
+            "debuffEnhance",
+            0.8129312435307146
+          ],
+          [
+            "attackAdditionVal",
+            0.8193345081223352
+          ],
+          [
+            "maxHpAdditionRate",
+            0.988193801603378
+          ],
+          [
+            "maxHpAdditionRate",
+            0.8024088505476002
+          ]
+        ],
+        "name": "树妖",
+        "discard_time": 0,
+        "level": 15,
+        "newGet": 0,
+        "lock": true,
+        "base_rindex": 2,
+        "pos": 2,
+        "qua": 6,
+        "suitid": 300024,
+        "isuseless": false,
+        "attrs": [
+          [
+            "生命加成",
+            "55%"
+          ],
+          [
+            "攻击",
+            "22"
+          ],
+          [
+            "攻击加成",
+            "3%"
+          ],
+          [
+            "生命加成",
+            "8%"
+          ],
+          [
+            "效果命中",
+            "7%"
+          ]
+        ],
+        "exp": 0,
+        "base_r": 1.0,
+        "uuid": "59953d628c99ba3c91b8a286"
+      },
+      "5974699b1a03ae65d6930b37": {
+        "itemId": 150005,
+        "rattr": [
+          [
+            "speedAdditionVal",
+            0.7999370351014855
+          ],
+          [
+            "critRateAdditionVal",
+            0.7828929781127605
+          ],
+          [
+            "defenseAdditionRate",
+            0.7229696583608128
+          ],
+          [
+            "defenseAdditionVal",
+            0.7978085501789308
+          ],
+          [
+            "defenseAdditionVal",
+            0.7980333781175931
+          ],
+          [
+            "defenseAdditionVal",
+            0.7687138962888936
+          ],
+          [
+            "defenseAdditionVal",
+            0.7315697310993389
+          ],
+          [
+            "defenseAdditionRate",
+            0.7270880955206324
+          ]
+        ],
+        "name": "招财猫",
+        "discard_time": 0,
+        "level": 15,
+        "newGet": 0,
+        "lock": false,
+        "base_rindex": 2,
+        "pos": 5,
+        "qua": 5,
+        "suitid": 300010,
+        "isuseless": false,
+        "attrs": [
+          [
+            "生命",
+            "1654"
+          ],
+          [
+            "防御加成",
+            "4%"
+          ],
+          [
+            "速度",
+            "2"
+          ],
+          [
+            "防御",
+            "15"
+          ],
+          [
+            "暴击",
+            "2%"
+          ]
+        ],
+        "exp": 500,
+        "base_r": 1.0,
+        "uuid": "5974699b1a03ae65d6930b37"
+      },
+      "5e6b85f57b7823472019dd86": {
+        "itemId": 160006,
+        "herouid": "59664d847374c403a4c9c0d4",
+        "rattr": [
+          [
+            "speedAdditionVal",
+            0.925993028509926
+          ],
+          [
+            "defenseAdditionRate",
+            0.9889590370548564
+          ],
+          [
+            "maxHpAdditionRate",
+            0.9232380288663795
+          ],
+          [
+            "defenseAdditionVal",
+            0.9610587047912327
+          ],
+          [
+            "defenseAdditionVal",
+            0.9294790631169305
+          ],
+          [
+            "defenseAdditionVal",
+            0.8989784096403305
+          ],
+          [
+            "maxHpAdditionRate",
+            0.9611552334761834
+          ],
+          [
+            "defenseAdditionVal",
+            0.9614300622983724
+          ],
+          [
+            "maxHpAdditionRate",
+            0.8403043565987482
+          ]
+        ],
+        "name": "荒骷髅",
+        "level": 15,
+        "newGet": 0,
+        "single_attr": [
+          "攻击加成",
+          "8%"
+        ],
+        "base_rindex": 2,
+        "pos": 6,
+        "qua": 6,
+        "suitid": 300052,
+        "isuseless": false,
+        "attrs": [
+          [
+            "生命加成",
+            "55%"
+          ],
+          [
+            "防御加成",
+            "3%"
+          ],
+          [
+            "速度",
+            "3"
+          ],
+          [
+            "防御",
+            "19"
+          ],
+          [
+            "生命加成",
+            "8%"
+          ]
+        ],
+        "exp": 0,
+        "lock": true,
+        "base_r": 1.0,
+        "uuid": "5e6b85f57b7823472019dd86"
+      },
+      "597619ca7374c45ab07e7abd": {
+        "itemId": 140006,
+        "herouid": "5d47bd9e58492d328c63f39a",
+        "rattr": [
+          [
+            "critPowerAdditionVal",
+            0.9716372495553983
+          ],
+          [
+            "defenseAdditionRate",
+            0.9669220615862292
+          ],
+          [
+            "maxHpAdditionVal",
+            0.8318874479975995
+          ],
+          [
+            "critRateAdditionVal",
+            0.9775342343800382
+          ],
+          [
+            "maxHpAdditionVal",
+            0.8401904560842777
+          ],
+          [
+            "critPowerAdditionVal",
+            0.9066897244887477
+          ],
+          [
+            "critPowerAdditionVal",
+            0.9929568933462045
+          ],
+          [
+            "maxHpAdditionVal",
+            0.83926500722145
+          ]
+        ],
+        "name": "网切",
+        "discard_time": 0,
+        "level": 15,
+        "newGet": 0,
+        "lock": false,
+        "base_rindex": 2,
+        "pos": 4,
+        "qua": 6,
+        "suitid": 300026,
+        "isuseless": false,
+        "attrs": [
+          [
+            "生命加成",
+            "55%"
+          ],
+          [
+            "暴击伤害",
+            "11%"
+          ],
+          [
+            "防御加成",
+            "3%"
+          ],
+          [
+            "暴击",
+            "3%"
+          ],
+          [
+            "生命",
+            "286"
+          ]
+        ],
+        "exp": 500,
+        "base_r": 1.0,
+        "uuid": "597619ca7374c45ab07e7abd"
+      },
+      "5994347855188a0449eb269f": {
+        "itemId": 120005,
+        "rattr": [
+          [
+            "debuffResist",
+            0.799889802247304
+          ],
+          [
+            "defenseAdditionVal",
+            0.7242196361082673
+          ],
+          [
+            "maxHpAdditionRate",
+            0.7496981196943586
+          ],
+          [
+            "attackAdditionVal",
+            0.7998010561476403
+          ],
+          [
+            "defenseAdditionVal",
+            0.769968833592003
+          ],
+          [
+            "defenseAdditionVal",
+            0.7627386727319193
+          ],
+          [
+            "defenseAdditionVal",
+            0.7436874022312939
+          ],
+          [
+            "attackAdditionVal",
+            0.7006617037513557
+          ]
+        ],
+        "name": "破势",
+        "discard_time": 0,
+        "level": 15,
+        "newGet": 0,
+        "lock": true,
+        "base_rindex": 0,
+        "pos": 2,
+        "qua": 5,
+        "suitid": 300030,
+        "isuseless": false,
+        "attrs": [
+          [
+            "攻击加成",
+            "38%"
+          ],
+          [
+            "攻击",
+            "41"
+          ],
+          [
+            "效果抵抗",
+            "3%"
+          ],
+          [
+            "防御",
+            "15"
+          ],
+          [
+            "生命加成",
+            "2%"
+          ]
+        ],
+        "exp": 750,
+        "base_r": 1.0,
+        "uuid": "5994347855188a0449eb269f"
+      },
+      "5d15734858492d52c5318d1c": {
+        "itemId": 120006,
+        "herouid": "5d47bd9e58492d328c63f39a",
+        "rattr": [
+          [
+            "maxHpAdditionRate",
+            0.9968253664047524
+          ],
+          [
+            "speedAdditionVal",
+            0.9849808423043926
+          ],
+          [
+            "debuffResist",
+            0.899715548676394
+          ],
+          [
+            "defenseAdditionRate",
+            0.966618077235474
+          ],
+          [
+            "speedAdditionVal",
+            0.9916351783011425
+          ],
+          [
+            "speedAdditionVal",
+            0.8532802879913094
+          ],
+          [
+            "maxHpAdditionRate",
+            0.9029215632460919
+          ],
+          [
+            "debuffResist",
+            0.9903376690551472
+          ],
+          [
+            "speedAdditionVal",
+            0.8160104693677389
+          ]
+        ],
+        "name": "针女",
+        "discard_time": 0,
+        "level": 15,
+        "newGet": 0,
+        "lock": true,
+        "base_rindex": 2,
+        "pos": 2,
+        "qua": 6,
+        "suitid": 300036,
+        "isuseless": false,
+        "attrs": [
+          [
+            "生命加成",
+            "55%"
+          ],
+          [
+            "效果抵抗",
+            "8%"
+          ],
+          [
+            "防御加成",
+            "3%"
+          ],
+          [
+            "速度",
+            "11"
+          ],
+          [
+            "生命加成",
+            "6%"
+          ]
+        ],
+        "exp": 0,
+        "base_r": 1.0,
+        "uuid": "5d15734858492d52c5318d1c"
+      },
+      "5e72d90621510f88200a5dff": {
+        "itemId": 140005,
+        "herouid": "5d38238d58492d2dc2a33894",
+        "rattr": [
+          [
+            "speedAdditionVal",
+            0.732963361516424
+          ],
+          [
+            "maxHpAdditionRate",
+            0.7520613582441115
+          ]
+        ],
+        "name": "蚌精",
+        "discard_time": 1584547200,
+        "level": 0,
+        "newGet": 0,
+        "lock": false,
+        "base_rindex": 2,
+        "pos": 4,
+        "qua": 5,
+        "suitid": 300034,
+        "isuseless": true,
+        "attrs": [
+          [
+            "生命加成",
+            "8%"
+          ],
+          [
+            "速度",
+            "2"
+          ],
+          [
+            "生命加成",
+            "2%"
+          ]
+        ],
+        "base_r": 1.0,
+        "uuid": "5e72d90621510f88200a5dff"
+      },
+      "5d0edbcd58492d0d22247e3f": {
+        "itemId": 110006,
+        "herouid": "5911e981baa9a36f11e8004d",
+        "rattr": [
+          [
+            "defenseAdditionRate",
+            0.8846248746588049
+          ],
+          [
+            "maxHpAdditionRate",
+            0.9337531950145901
+          ],
+          [
+            "maxHpAdditionVal",
+            0.8359973094753409
+          ],
+          [
+            "critPowerAdditionVal",
+            0.8447376454454649
+          ],
+          [
+            "critPowerAdditionVal",
+            0.804677452298702
+          ],
+          [
+            "maxHpAdditionVal",
+            0.8332565361305366
+          ],
+          [
+            "critPowerAdditionVal",
+            0.8312827703746499
+          ],
+          [
+            "maxHpAdditionVal",
+            0.8569436974337988
+          ],
+          [
+            "defenseAdditionRate",
+            0.9763155607095407
+          ]
+        ],
+        "name": "针女",
+        "discard_time": 0,
+        "level": 15,
+        "newGet": 0,
+        "lock": true,
+        "base_rindex": 0,
+        "pos": 1,
+        "qua": 6,
+        "suitid": 300036,
+        "isuseless": false,
+        "attrs": [
+          [
+            "攻击",
+            "486"
+          ],
+          [
+            "防御加成",
+            "6%"
+          ],
+          [
+            "暴击伤害",
+            "10%"
+          ],
+          [
+            "生命加成",
+            "3%"
+          ],
+          [
+            "生命",
+            "288"
+          ]
+        ],
+        "exp": 0,
+        "base_r": 1.0,
+        "uuid": "5d0edbcd58492d0d22247e3f"
+      },
+      "5d1203be58492d0d2233be8e": {
+        "itemId": 120006,
+        "herouid": "5e71d0fb21510f882004386b",
+        "rattr": [
+          [
+            "attackAdditionRate",
+            0.8402258385873569
+          ],
+          [
+            "defenseAdditionRate",
+            0.9054101607829491
+          ],
+          [
+            "debuffEnhance",
+            0.9938934623006543
+          ],
+          [
+            "speedAdditionVal",
+            0.8020622504566108
+          ],
+          [
+            "debuffEnhance",
+            0.9787565011418392
+          ],
+          [
+            "debuffEnhance",
+            0.8915909164652659
+          ],
+          [
+            "defenseAdditionRate",
+            0.9228960489278024
+          ],
+          [
+            "speedAdditionVal",
+            0.8492950578003372
+          ]
+        ],
+        "name": "三味",
+        "discard_time": 0,
+        "level": 15,
+        "newGet": 0,
+        "lock": true,
+        "base_rindex": 0,
+        "pos": 2,
+        "qua": 6,
+        "suitid": 300007,
+        "isuseless": false,
+        "attrs": [
+          [
+            "攻击加成",
+            "55%"
+          ],
+          [
+            "攻击加成",
+            "3%"
+          ],
+          [
+            "防御加成",
+            "5%"
+          ],
+          [
+            "速度",
+            "5"
+          ],
+          [
+            "效果命中",
+            "11%"
+          ]
+        ],
+        "exp": 0,
+        "base_r": 1.0,
+        "uuid": "5d1203be58492d0d2233be8e"
+      },
+      "5d12066058492d0d2233f03a": {
+        "itemId": 130006,
+        "herouid": "5e71d0fb21510f882004386b",
+        "rattr": [
+          [
+            "speedAdditionVal",
+            0.8331374456013876
+          ],
+          [
+            "attackAdditionRate",
+            0.9109905408293567
+          ],
+          [
+            "debuffResist",
+            0.9242287164915705
+          ],
+          [
+            "critPowerAdditionVal",
+            0.9478133644480949
+          ],
+          [
+            "critPowerAdditionVal",
+            0.935632373280016
+          ],
+          [
+            "speedAdditionVal",
+            0.9225117350328885
+          ],
+          [
+            "attackAdditionRate",
+            0.9866019236216538
+          ]
+        ],
+        "name": "三味",
+        "discard_time": 0,
+        "level": 15,
+        "newGet": 0,
+        "lock": true,
+        "base_rindex": 1,
+        "pos": 3,
+        "qua": 6,
+        "suitid": 300007,
+        "isuseless": false,
+        "attrs": [
+          [
+            "防御",
+            "104"
+          ],
+          [
+            "攻击加成",
+            "6%"
+          ],
+          [
+            "效果抵抗",
+            "4%"
+          ],
+          [
+            "速度",
+            "5"
+          ],
+          [
+            "暴击伤害",
+            "8%"
+          ]
+        ],
+        "exp": 0,
+        "base_r": 1.0,
+        "uuid": "5d12066058492d0d2233f03a"
+      },
+      "595d11cb7374c46929f3b2b7": {
+        "itemId": 130005,
+        "herouid": "5d47bd9e58492d328c63f39a",
+        "rattr": [
+          [
+            "attackAdditionRate",
+            0.7131754414183957
+          ],
+          [
+            "critRateAdditionVal",
+            0.774869697554048
+          ],
+          [
+            "speedAdditionVal",
+            0.7458423436063162
+          ],
+          [
+            "defenseAdditionRate",
+            0.7953575393003547
+          ],
+          [
+            "defenseAdditionRate",
+            0.7388641116118266
+          ],
+          [
+            "defenseAdditionRate",
+            0.7522639076209615
+          ],
+          [
+            "defenseAdditionRate",
+            0.7724795736189525
+          ],
+          [
+            "defenseAdditionRate",
+            0.7970942675264588
+          ]
+        ],
+        "name": "针女",
+        "discard_time": 0,
+        "level": 15,
+        "newGet": 0,
+        "lock": false,
+        "base_rindex": 1,
+        "pos": 3,
+        "qua": 5,
+        "suitid": 300036,
+        "isuseless": false,
+        "attrs": [
+          [
+            "防御",
+            "86"
+          ],
+          [
+            "攻击加成",
+            "2%"
+          ],
+          [
+            "防御加成",
+            "12%"
+          ],
+          [
+            "速度",
+            "2"
+          ],
+          [
+            "暴击",
+            "2%"
+          ]
+        ],
+        "exp": 750,
+        "base_r": 1.0,
+        "uuid": "595d11cb7374c46929f3b2b7"
+      },
+      "5d1202e658492d0d2233ac1c": {
+        "itemId": 150005,
+        "herouid": "5e6b317e7b7823472014e1be",
+        "rattr": [
+          [
+            "critPowerAdditionVal",
+            0.7721669762938648
+          ],
+          [
+            "debuffResist",
+            0.7171534961649537
+          ]
+        ],
+        "name": "三味",
+        "discard_time": 0,
+        "level": 0,
+        "newGet": 0,
+        "lock": false,
+        "base_rindex": 2,
+        "pos": 5,
+        "qua": 5,
+        "suitid": 300007,
+        "isuseless": false,
+        "attrs": [
+          [
+            "生命",
+            "274"
+          ],
+          [
+            "效果抵抗",
+            "3%"
+          ],
+          [
+            "暴击伤害",
+            "3%"
+          ]
+        ],
+        "base_r": 1.0,
+        "uuid": "5d1202e658492d0d2233ac1c"
+      },
+      "5d14252558492d52c525e83d": {
+        "itemId": 160006,
+        "herouid": "5d38238d58492d2dc2a33894",
+        "rattr": [
+          [
+            "debuffEnhance",
+            0.8997242194647714
+          ],
+          [
+            "critRateAdditionVal",
+            0.9474307618877476
+          ],
+          [
+            "critPowerAdditionVal",
+            0.8619261688254114
+          ]
+        ],
+        "name": "树妖",
+        "discard_time": 0,
+        "level": 0,
+        "newGet": 0,
+        "lock": false,
+        "base_rindex": 2,
+        "pos": 6,
+        "qua": 6,
+        "suitid": 300024,
+        "isuseless": false,
+        "attrs": [
+          [
+            "生命加成",
+            "10%"
+          ],
+          [
+            "暴击伤害",
+            "3%"
+          ],
+          [
+            "暴击",
+            "3%"
+          ],
+          [
+            "效果命中",
+            "4%"
+          ]
+        ],
+        "base_r": 1.0,
+        "uuid": "5d14252558492d52c525e83d"
+      },
+      "5d1429be58492d52c52609a8": {
+        "itemId": 150005,
+        "herouid": "5d47bd9e58492d328c63f39a",
+        "rattr": [
+          [
+            "critRateAdditionVal",
+            0.7689484668063234
+          ],
+          [
+            "attackAdditionVal",
+            0.7675670101194345
+          ]
+        ],
+        "name": "针女",
+        "discard_time": 0,
+        "level": 0,
+        "newGet": 0,
+        "lock": false,
+        "base_rindex": 2,
+        "pos": 5,
+        "qua": 5,
+        "suitid": 300036,
+        "isuseless": false,
+        "attrs": [
+          [
+            "生命",
+            "274"
+          ],
+          [
+            "攻击",
+            "21"
+          ],
+          [
+            "暴击",
+            "2%"
+          ]
+        ],
+        "base_r": 1.0,
+        "uuid": "5d1429be58492d52c52609a8"
+      },
+      "5d0f0ea658492d0d22252b99": {
+        "itemId": 160005,
+        "herouid": "5d47bd9e58492d328c63f39a",
+        "rattr": [
+          [
+            "maxHpAdditionVal",
+            0.7805305803776154
+          ],
+          [
+            "debuffEnhance",
+            0.7182979428178043
+          ],
+          [
+            "critRateAdditionVal",
+            0.7760191078904315
+          ]
+        ],
+        "name": "针女",
+        "discard_time": 0,
+        "level": 0,
+        "newGet": 0,
+        "lock": false,
+        "base_rindex": 4,
+        "pos": 6,
+        "qua": 5,
+        "suitid": 300036,
+        "isuseless": false,
+        "attrs": [
+          [
+            "暴击",
+            "8%"
+          ],
+          [
+            "暴击",
+            "2%"
+          ],
+          [
+            "效果命中",
+            "3%"
+          ],
+          [
+            "生命",
+            "89"
+          ]
+        ],
+        "base_r": 1.0,
+        "uuid": "5d0f0ea658492d0d22252b99"
+      },
+      "5d23164158492d444cf29ba1": {
+        "itemId": 120006,
+        "herouid": "5954cca27374c45d9ec6c1fb",
+        "rattr": [
+          [
+            "defenseAdditionRate",
+            0.8025115934320921
+          ],
+          [
+            "maxHpAdditionVal",
+            0.8454513899575706
+          ],
+          [
+            "critRateAdditionVal",
+            0.8911468086531076
+          ],
+          [
+            "critPowerAdditionVal",
+            0.8246177894458157
+          ],
+          [
+            "defenseAdditionRate",
+            0.9815781948939056
+          ],
+          [
+            "defenseAdditionRate",
+            0.9047322648431716
+          ],
+          [
+            "critRateAdditionVal",
+            0.9821775403232225
+          ],
+          [
+            "defenseAdditionRate",
+            0.8310849878840962
+          ],
+          [
+            "maxHpAdditionVal",
+            0.84652411949439
+          ]
+        ],
+        "name": "招财猫",
+        "discard_time": 0,
+        "level": 15,
+        "newGet": 0,
+        "lock": true,
+        "base_rindex": 3,
+        "pos": 2,
+        "qua": 6,
+        "suitid": 300010,
+        "isuseless": false,
+        "attrs": [
+          [
+            "速度",
+            "57"
+          ],
+          [
+            "暴击伤害",
+            "3%"
+          ],
+          [
+            "防御加成",
+            "11%"
+          ],
+          [
+            "暴击",
+            "6%"
+          ],
+          [
+            "生命",
+            "193"
+          ]
+        ],
+        "exp": 0,
+        "base_r": 1.0,
+        "uuid": "5d23164158492d444cf29ba1"
+      },
+      "596076c27374c403a4c269ba": {
+        "itemId": 150005,
+        "rattr": [
+          [
+            "debuffResist",
+            0.7676412866514132
+          ],
+          [
+            "defenseAdditionRate",
+            0.7499281030997532
+          ],
+          [
+            "speedAdditionVal",
+            0.7999732850703758
+          ],
+          [
+            "maxHpAdditionRate",
+            0.72370523892918
+          ],
+          [
+            "maxHpAdditionRate",
+            0.7881649752419543
+          ],
+          [
+            "speedAdditionVal",
+            0.7826395537994157
+          ],
+          [
+            "maxHpAdditionRate",
+            0.7846572486911405
+          ],
+          [
+            "maxHpAdditionRate",
+            0.760422616031472
+          ]
+        ],
+        "name": "反枕",
+        "discard_time": 0,
+        "level": 15,
+        "newGet": 0,
+        "lock": false,
+        "base_rindex": 2,
+        "pos": 5,
+        "qua": 5,
+        "suitid": 300011,
+        "isuseless": false,
+        "attrs": [
+          [
+            "生命",
+            "1654"
+          ],
+          [
+            "效果抵抗",
+            "3%"
+          ],
+          [
+            "防御加成",
+            "2%"
+          ],
+          [
+            "速度",
+            "5"
+          ],
+          [
+            "生命加成",
+            "9%"
+          ]
+        ],
+        "exp": 500,
+        "base_r": 1.0,
+        "uuid": "596076c27374c403a4c269ba"
+      }
+    },
+    "trial_score": 1000,
+    "currency_960010": 0,
+    "redheart": 155,
+    "achieve_ids": [
+      40158,
+      40156,
+      40155,
+      40154,
+      10101,
+      1061,
+      1062,
+      195,
+      194,
+      196,
+      191,
+      190,
+      193,
+      192,
+      10137,
+      1018,
+      1019,
+      1014,
+      1015,
+      1016,
+      1017,
+      1013,
+      108,
+      109,
+      102,
+      103,
+      100,
+      101,
+      106,
+      107,
+      104,
+      105,
+      39,
+      38,
+      37,
+      36,
+      35,
+      10141,
+      10143,
+      10145,
+      50216,
+      331,
+      330,
+      333,
+      332,
+      6,
+      99,
+      98,
+      20003,
+      20002,
+      20001,
+      91,
+      90,
+      93,
+      92,
+      95,
+      94,
+      97,
+      96,
+      30638,
+      30631,
+      30633,
+      30632,
+      30634,
+      30637,
+      30636,
+      235,
+      230,
+      231,
+      232,
+      1,
+      146,
+      147,
+      144,
+      145,
+      142,
+      143,
+      141,
+      148,
+      149,
+      30806,
+      30804,
+      30803,
+      30800,
+      133,
+      132,
+      130,
+      137,
+      135,
+      134,
+      139,
+      138,
+      24,
+      25,
+      20,
+      21,
+      22,
+      23,
+      10119,
+      88,
+      89,
+      82,
+      83,
+      80,
+      81,
+      84,
+      7,
+      40607,
+      40218,
+      40601,
+      40214,
+      40217,
+      240,
+      50219,
+      10309,
+      10306,
+      10303,
+      10302,
+      10300,
+      179,
+      178,
+      177,
+      170,
+      182,
+      183,
+      2,
+      186,
+      187,
+      184,
+      185,
+      188,
+      189,
+      10152,
+      10150,
+      11,
+      10,
+      13,
+      12,
+      15,
+      14,
+      17,
+      16,
+      19,
+      18,
+      62,
+      30407,
+      320,
+      30628,
+      30629,
+      30622,
+      30620,
+      40312,
+      30626,
+      30625,
+      74,
+      73,
+      79,
+      78,
+      60201,
+      215,
+      8,
+      120,
+      121,
+      122,
+      123,
+      124,
+      125,
+      126,
+      127,
+      128,
+      129,
+      40412,
+      136,
+      10129,
+      10120,
+      3,
+      114,
+      60,
+      61,
+      64,
+      65,
+      66,
+      67,
+      252,
+      69,
+      251,
+      10310,
+      10311,
+      169,
+      40500,
+      40501,
+      1102,
+      9,
+      40164,
+      40160,
+      216,
+      217,
+      214,
+      60202,
+      212,
+      213,
+      210,
+      211,
+      218,
+      219,
+      10214,
+      4,
+      263,
+      262,
+      20205,
+      20204,
+      20206,
+      59,
+      58,
+      20203,
+      20202,
+      55,
+      54,
+      57,
+      56,
+      51,
+      53,
+      52,
+      63,
+      20208,
+      115,
+      68,
+      117,
+      202,
+      111,
+      110,
+      113,
+      253,
+      119,
+      118,
+      40311,
+      40313,
+      10134,
+      10135,
+      30621,
+      10130,
+      10131,
+      10133,
+      40315,
+      10139,
+      40314,
+      50116,
+      30646,
+      229,
+      228,
+      227,
+      226,
+      225,
+      224,
+      223,
+      222,
+      221,
+      220,
+      1025,
+      1024,
+      1026,
+      1021,
+      1020,
+      1023,
+      1022,
+      116,
+      150,
+      112,
+      48,
+      46,
+      47,
+      44,
+      45,
+      41,
+      5,
+      50222,
+      70108
+    ],
+    "equips_summary": 977,
+    "damo_count_dict": {
+      "3": {
+        "412": 7
+      },
+      "2": {
+        "411": 1,
+        "412": 5,
+        "413": 3
+      },
+      "5": {
+        "412": 3
+      }
+    },
+    "currency_900273": 239,
+    "_id": "590de0a7baa9a36f11e3cbb2",
+    "currency_900215": 5,
+    "currency_900217": 49,
+    "currency_900216": 106,
+    "hunyu": 0,
+    "yzg": {
+      "open": false,
+      "effect": []
+    },
+    "trial_stage": 7,
+    "currency_900188": 6,
+    "heroes": {
+      "5962fc287374c403a4c5c95d": {
+        "equips": [],
+        "usingCards": [],
+        "star": 2,
+        "uid": "5962fc287374c403a4c5c95d",
+        "level": 7,
+        "lock": true,
+        "selectSkills": [
+          2551,
+          2552,
+          2553
+        ],
+        "flag": 0,
+        "heroUid": "5962fc287374c403a4c5c95d",
+        "rarity": 4,
+        "born": 1499659304,
+        "skinid": 2,
+        "awake": 1,
+        "attrs": {
+          "生命": {
+            "score": 3,
+            "val": "1485",
+            "add_val": "0"
+          },
+          "暴击伤害": {
+            "score": 0,
+            "val": "150%"
+          },
+          "暴击": {
+            "score": 2,
+            "val": "5%",
+            "add_val": "0%"
+          },
+          "攻击": {
+            "score": 2,
+            "val": "161",
+            "add_val": "0"
+          },
+          "防御": {
+            "score": 3,
+            "val": "93",
+            "add_val": "0"
+          },
+          "效果抵抗": {
+            "score": 0,
+            "val": "0%"
+          },
+          "速度": {
+            "score": 4,
+            "val": "117",
+            "add_val": "10"
+          },
+          "效果命中": {
+            "score": 0,
+            "val": "0%"
+          }
+        },
+        "exp": 947,
+        "heroId": 255,
+        "skinfo": [
+          [
+            2551,
+            1
+          ],
+          [
+            2552,
+            1
+          ],
+          [
+            2553,
+            1
+          ]
+        ],
+        "name": "阎魔"
+      },
+      "5e71d13121510f8820043a28": {
+        "equips": [],
+        "usingCards": [],
+        "star": 2,
+        "uid": "5e71d13121510f8820043a28",
+        "level": 1,
+        "lock": true,
+        "selectSkills": [
+          2651,
+          2652,
+          2653
+        ],
+        "skinfo": [
+          [
+            2651,
+            1
+          ],
+          [
+            2652,
+            1
+          ],
+          [
+            2653,
+            1
+          ]
+        ],
+        "heroUid": "5e71d13121510f8820043a28",
+        "rarity": 4,
+        "born": 1584517425,
+        "skinid": 1,
+        "awake": 1,
+        "attrs": {
+          "生命": {
+            "score": 2,
+            "val": "960",
+            "add_val": "0"
+          },
+          "暴击伤害": {
+            "score": 0,
+            "val": "150%"
+          },
+          "暴击": {
+            "score": 4,
+            "val": "10%",
+            "add_val": "0%"
+          },
+          "攻击": {
+            "score": 4,
+            "val": "152",
+            "add_val": "0"
+          },
+          "防御": {
+            "score": 2,
+            "val": "68",
+            "add_val": "0"
+          },
+          "效果抵抗": {
+            "score": 0,
+            "val": "0%"
+          },
+          "速度": {
+            "score": 4,
+            "val": "112",
+            "add_val": "0"
+          },
+          "效果命中": {
+            "score": 0,
+            "val": "0%"
+          }
+        },
+        "exp": 0,
+        "heroId": 265,
+        "name": "茨木童子"
+      },
+      "5961ac867374c403a4c3e024": {
+        "equips": [],
+        "usingCards": [],
+        "star": 2,
+        "uid": "5961ac867374c403a4c3e024",
+        "level": 60,
+        "newGet": 1,
+        "lock": true,
+        "selectSkills": [
+          1201,
+          1203,
+          1204
+        ],
+        "heroUid": "5961ac867374c403a4c3e024",
+        "rarity": 4,
+        "born": 1499573382,
+        "skinfo": [
+          [
+            1201,
+            1
+          ],
+          [
+            1203,
+            3
+          ],
+          [
+            1204,
+            2
+          ],
+          [
+            9021,
+            1
+          ],
+          [
+            1205,
+            1
+          ]
+        ],
+        "attrs": {
+          "生命": {
+            "score": 3,
+            "val": "13847",
+            "add_val": "0"
+          },
+          "暴击伤害": {
+            "score": 0,
+            "val": "150%"
+          },
+          "暴击": {
+            "score": 0,
+            "val": "0%",
+            "add_val": "0%"
+          },
+          "攻击": {
+            "score": 3,
+            "val": "3256",
+            "add_val": "0"
+          },
+          "防御": {
+            "score": 3,
+            "val": "536",
+            "add_val": "0"
+          },
+          "效果抵抗": {
+            "score": 0,
+            "val": "0%"
+          },
+          "速度": {
+            "score": 2,
+            "val": "100",
+            "add_val": "0"
+          },
+          "效果命中": {
+            "score": 0,
+            "val": "0%"
+          }
+        },
+        "exp": 0,
+        "heroId": 12,
+        "awake": 0,
+        "name": "八百比丘尼"
+      },
+      "590decacbaa9a36f11e3e11c": {
+        "heroUid": "590decacbaa9a36f11e3e11c",
+        "usingCards": [],
+        "star": 2,
+        "uid": "590decacbaa9a36f11e3e11c",
+        "equips": [],
+        "awake": 0,
+        "lock": true,
+        "selectSkills": [
+          9001
+        ],
+        "level": 40,
+        "rarity": 4,
+        "born": 1494084780,
+        "skinfo": [
+          [
+            9001,
+            1
+          ]
+        ],
+        "attrs": {
+          "生命": {
+            "score": 3,
+            "val": "6504",
+            "add_val": "0"
+          },
+          "暴击伤害": {
+            "score": 0,
+            "val": "150%"
+          },
+          "暴击": {
+            "score": 0,
+            "val": "0%",
+            "add_val": "0%"
+          },
+          "攻击": {
+            "score": 3,
+            "val": "1024",
+            "add_val": "0"
+          },
+          "防御": {
+            "score": 3,
+            "val": "196",
+            "add_val": "0"
+          },
+          "效果抵抗": {
+            "score": 0,
+            "val": "0%"
+          },
+          "速度": {
+            "score": 2,
+            "val": "100",
+            "add_val": "0"
+          },
+          "效果命中": {
+            "score": 0,
+            "val": "0%"
+          }
+        },
+        "exp": 125,
+        "heroId": 900,
+        "name": "神龙"
+      },
+      "5d16182c58492d52c5393d95": {
+        "equips": [],
+        "usingCards": [],
+        "star": 2,
+        "uid": "5d16182c58492d52c5393d95",
+        "level": 1,
+        "lock": true,
+        "selectSkills": [
+          3331,
+          3332,
+          3333
+        ],
+        "skinid": 1,
+        "heroUid": "5d16182c58492d52c5393d95",
+        "rarity": 4,
+        "born": 1561729068,
+        "flag": 1,
+        "awake": 1,
+        "attrs": {
+          "生命": {
+            "score": 4,
+            "val": "1184",
+            "add_val": "0"
+          },
+          "暴击伤害": {
+            "score": 0,
+            "val": "150%"
+          },
+          "暴击": {
+            "score": 4,
+            "val": "10%",
+            "add_val": "0%"
+          },
+          "攻击": {
+            "score": 4,
+            "val": "157",
+            "add_val": "0"
+          },
+          "防御": {
+            "score": 2,
+            "val": "68",
+            "add_val": "0"
+          },
+          "效果抵抗": {
+            "score": 0,
+            "val": "0%"
+          },
+          "速度": {
+            "score": 2,
+            "val": "100",
+            "add_val": "0"
+          },
+          "效果命中": {
+            "score": 0,
+            "val": "0%"
+          }
+        },
+        "exp": 0,
+        "heroId": 333,
+        "skinfo": [
+          [
+            3331,
+            1
+          ],
+          [
+            3332,
+            1
+          ],
+          [
+            3333,
+            1
+          ]
+        ],
+        "name": "大岳丸"
+      },
+      "59664d847374c403a4c9c0d4": {
+        "equips": [
+          "59734c737374c45ab07b8ad8",
+          "59953d628c99ba3c91b8a286",
+          "598c18308c99ba33300d56a2",
+          "59946f998c99ba3c8a9908cc",
+          "5e6b85f57b7823472019dd86",
+          "5d107f5158492d0d222b430e"
+        ],
+        "usingCards": [],
+        "star": 5,
+        "uid": "59664d847374c403a4c9c0d4",
+        "level": 35,
+        "lock": true,
+        "selectSkills": [
+          2681,
+          2683,
+          2682
+        ],
+        "skinid": 1,
+        "heroUid": "59664d847374c403a4c9c0d4",
+        "rarity": 3,
+        "born": 1499876740,
+        "flag": 1,
+        "awake": 1,
+        "attrs": {
+          "生命": {
+            "score": 4,
+            "val": "9181",
+            "add_val": "18860"
+          },
+          "暴击伤害": {
+            "score": 0,
+            "val": "153%"
+          },
+          "暴击": {
+            "score": 4,
+            "val": "10%",
+            "add_val": "0%"
+          },
+          "攻击": {
+            "score": 2,
+            "val": "1419",
+            "add_val": "390"
+          },
+          "防御": {
+            "score": 2,
+            "val": "322",
+            "add_val": "58"
+          },
+          "效果抵抗": {
+            "score": 0,
+            "val": "12%"
+          },
+          "速度": {
+            "score": 3,
+            "val": "107",
+            "add_val": "11"
+          },
+          "效果命中": {
+            "score": 0,
+            "val": "11%"
+          }
+        },
+        "exp": 9955,
+        "heroId": 268,
+        "skinfo": [
+          [
+            2681,
+            5
+          ],
+          [
+            2683,
+            4
+          ],
+          [
+            2682,
+            1
+          ]
+        ],
+        "name": "惠比寿"
+      },
+      "5d0f106358492d0d22253222": {
+        "equips": [],
+        "usingCards": [],
+        "star": 2,
+        "uid": "5d0f106358492d0d22253222",
+        "level": 1,
+        "lock": true,
+        "selectSkills": [
+          3111,
+          3112,
+          3113
+        ],
+        "skinid": 1,
+        "heroUid": "5d0f106358492d0d22253222",
+        "rarity": 4,
+        "born": 1561268323,
+        "flag": 0,
+        "awake": 1,
+        "attrs": {
+          "生命": {
+            "score": 1,
+            "val": "950",
+            "add_val": "0"
+          },
+          "暴击伤害": {
+            "score": 0,
+            "val": "150%"
+          },
+          "暴击": {
+            "score": 3,
+            "val": "8%",
+            "add_val": "0%"
+          },
+          "攻击": {
+            "score": 4,
+            "val": "154",
+            "add_val": "0"
+          },
+          "防御": {
+            "score": 1,
+            "val": "68",
+            "add_val": "0"
+          },
+          "效果抵抗": {
+            "score": 0,
+            "val": "0%"
+          },
+          "速度": {
+            "score": 4,
+            "val": "119",
+            "add_val": "0"
+          },
+          "效果命中": {
+            "score": 0,
+            "val": "0%"
+          }
+        },
+        "exp": 0,
+        "heroId": 311,
+        "skinfo": [
+          [
+            3111,
+            1
+          ],
+          [
+            3112,
+            1
+          ],
+          [
+            3113,
+            1
+          ]
+        ],
+        "name": "面灵气"
+      },
+      "5954cc727374c45d9ec6c0ef": {
+        "equips": [
+          "5991972d8c99ba3330177435",
+          "5e6f458b7b782347204006c4"
+        ],
+        "usingCards": [],
+        "star": 5,
+        "uid": "5954cc727374c45d9ec6c0ef",
+        "level": 35,
+        "lock": true,
+        "selectSkills": [
+          2621,
+          2622,
+          2623
+        ],
+        "skinid": 1,
+        "heroUid": "5954cc727374c45d9ec6c0ef",
+        "rarity": 3,
+        "nick": "没伤害",
+        "flag": 1,
+        "awake": 1,
+        "attrs": {
+          "生命": {
+            "score": 2,
+            "val": "7719",
+            "add_val": "2564"
+          },
+          "暴击伤害": {
+            "score": 0,
+            "val": "150%"
+          },
+          "暴击": {
+            "score": 4,
+            "val": "10%",
+            "add_val": "0%"
+          },
+          "攻击": {
+            "score": 4,
+            "val": "1854",
+            "add_val": "1242"
+          },
+          "防御": {
+            "score": 2,
+            "val": "293",
+            "add_val": "48"
+          },
+          "效果抵抗": {
+            "score": 0,
+            "val": "0%"
+          },
+          "速度": {
+            "score": 4,
+            "val": "113",
+            "add_val": "0"
+          },
+          "效果命中": {
+            "score": 0,
+            "val": "0%"
+          }
+        },
+        "exp": 73832,
+        "born": 1498729586,
+        "heroId": 262,
+        "skinfo": [
+          [
+            2621,
+            3
+          ],
+          [
+            2622,
+            1
+          ],
+          [
+            2623,
+            2
+          ]
+        ],
+        "name": "姑获鸟"
+      },
+      "590ea1a8baa9a36f11e47ac0": {
+        "heroUid": "590ea1a8baa9a36f11e47ac0",
+        "usingCards": [],
+        "star": 2,
+        "uid": "590ea1a8baa9a36f11e47ac0",
+        "equips": [],
+        "lock": true,
+        "selectSkills": [
+          9031,
+          9032,
+          9033
+        ],
+        "level": 1,
+        "rarity": 4,
+        "born": 1494131112,
+        "skinfo": [
+          [
+            9031,
+            1
+          ],
+          [
+            9032,
+            1
+          ],
+          [
+            9033,
+            1
+          ]
+        ],
+        "attrs": {
+          "生命": {
+            "score": 3,
+            "val": "1067",
+            "add_val": "0"
+          },
+          "暴击伤害": {
+            "score": 0,
+            "val": "150%"
+          },
+          "暴击": {
+            "score": 0,
+            "val": "0%",
+            "add_val": "0%"
+          },
+          "攻击": {
+            "score": 3,
+            "val": "127",
+            "add_val": "0"
+          },
+          "防御": {
+            "score": 3,
+            "val": "75",
+            "add_val": "0"
+          },
+          "效果抵抗": {
+            "score": 0,
+            "val": "0%"
+          },
+          "速度": {
+            "score": 2,
+            "val": "100",
+            "add_val": "0"
+          },
+          "效果命中": {
+            "score": 0,
+            "val": "0%"
+          }
+        },
+        "exp": 0,
+        "heroId": 903,
+        "awake": 0,
+        "name": "黑豹"
+      },
+      "59148ae4baa9a36f11ea174c": {
+        "equips": [
+          "5d0edee258492d0d22248a13",
+          "5d1201d458492d0d22339a5b",
+          "5d14256658492d52c525e9ba"
+        ],
+        "usingCards": [],
+        "star": 6,
+        "uid": "59148ae4baa9a36f11ea174c",
+        "level": 40,
+        "lock": true,
+        "selectSkills": [
+          2191,
+          2192,
+          2193
+        ],
+        "flag": 1,
+        "heroUid": "59148ae4baa9a36f11ea174c",
+        "rarity": 4,
+        "born": 1494518500,
+        "skinid": 2,
+        "awake": 1,
+        "attrs": {
+          "生命": {
+            "score": 2,
+            "val": "11165",
+            "add_val": "3014"
+          },
+          "暴击伤害": {
+            "score": 0,
+            "val": "159%"
+          },
+          "暴击": {
+            "score": 4,
+            "val": "10%",
+            "add_val": "26%"
+          },
+          "攻击": {
+            "score": 4,
+            "val": "3136",
+            "add_val": "1775"
+          },
+          "防御": {
+            "score": 1,
+            "val": "375",
+            "add_val": "90"
+          },
+          "效果抵抗": {
+            "score": 0,
+            "val": "9%"
+          },
+          "速度": {
+            "score": 4,
+            "val": "113",
+            "add_val": "0"
+          },
+          "效果命中": {
+            "score": 0,
+            "val": "6%"
+          }
+        },
+        "exp": 0,
+        "heroId": 219,
+        "skinfo": [
+          [
+            2191,
+            4
+          ],
+          [
+            2192,
+            1
+          ],
+          [
+            2193,
+            2
+          ]
+        ],
+        "name": "酒吞童子"
+      },
+      "5e731b6021510f88200c9ee0": {
+        "equips": [],
+        "usingCards": [],
+        "star": 2,
+        "uid": "5e731b6021510f88200c9ee0",
+        "level": 1,
+        "awake": 1,
+        "lock": true,
+        "selectSkills": [
+          3461,
+          3462,
+          3463
+        ],
+        "heroUid": "5e731b6021510f88200c9ee0",
+        "rarity": 5,
+        "born": 1584601952,
+        "flag": 1,
+        "skinfo": [
+          [
+            3461,
+            1
+          ],
+          [
+            3462,
+            1
+          ],
+          [
+            3463,
+            1
+          ]
+        ],
+        "attrs": {
+          "生命": {
+            "score": 2,
+            "val": "1035",
+            "add_val": "0"
+          },
+          "暴击伤害": {
+            "score": 0,
+            "val": "150%"
+          },
+          "暴击": {
+            "score": 4,
+            "val": "10%",
+            "add_val": "0%"
+          },
+          "攻击": {
+            "score": 4,
+            "val": "142",
+            "add_val": "0"
+          },
+          "防御": {
+            "score": 2,
+            "val": "68",
+            "add_val": "0"
+          },
+          "效果抵抗": {
+            "score": 0,
+            "val": "0%"
+          },
+          "速度": {
+            "score": 4,
+            "val": "111",
+            "add_val": "0"
+          },
+          "效果命中": {
+            "score": 0,
+            "val": "0%"
+          }
+        },
+        "exp": 0,
+        "heroId": 346,
+        "name": "聆海金鱼姬"
+      },
+      "590ea1a8baa9a36f11e47abf": {
+        "equips": [],
+        "usingCards": [],
+        "star": 2,
+        "uid": "590ea1a8baa9a36f11e47abf",
+        "level": 60,
+        "newGet": 1,
+        "lock": true,
+        "selectSkills": [
+          1301,
+          1302,
+          1303
+        ],
+        "skinfo": [
+          [
+            1301,
+            2
+          ],
+          [
+            1302,
+            5
+          ],
+          [
+            1303,
+            5
+          ],
+          [
+            9033,
+            1
+          ],
+          [
+            9032,
+            4
+          ],
+          [
+            1304,
+            5
+          ],
+          [
+            9031,
+            4
+          ],
+          [
+            1305,
+            2
+          ]
+        ],
+        "heroUid": "590ea1a8baa9a36f11e47abf",
+        "rarity": 4,
+        "born": 1494131112,
+        "awake": 0,
+        "attrs": {
+          "生命": {
+            "score": 3,
+            "val": "13847",
+            "add_val": "0"
+          },
+          "暴击伤害": {
+            "score": 0,
+            "val": "150%"
+          },
+          "暴击": {
+            "score": 0,
+            "val": "0%",
+            "add_val": "0%"
+          },
+          "攻击": {
+            "score": 3,
+            "val": "3256",
+            "add_val": "0"
+          },
+          "防御": {
+            "score": 3,
+            "val": "536",
+            "add_val": "0"
+          },
+          "效果抵抗": {
+            "score": 0,
+            "val": "0%"
+          },
+          "速度": {
+            "score": 2,
+            "val": "100",
+            "add_val": "0"
+          },
+          "效果命中": {
+            "score": 0,
+            "val": "0%"
+          }
+        },
+        "exp": 0,
+        "heroId": 13,
+        "name": "源博雅"
+      },
+      "5988394d7374c469ace7f664": {
+        "equips": [],
+        "usingCards": [],
+        "star": 2,
+        "uid": "5988394d7374c469ace7f664",
+        "level": 1,
+        "lock": true,
+        "selectSkills": [
+          2721,
+          2722,
+          2723
+        ],
+        "flag": 1,
+        "heroUid": "5988394d7374c469ace7f664",
+        "rarity": 4,
+        "born": 1502099789,
+        "skinid": 1,
+        "awake": 1,
+        "attrs": {
+          "生命": {
+            "score": 4,
+            "val": "1302",
+            "add_val": "0"
+          },
+          "暴击伤害": {
+            "score": 0,
+            "val": "150%"
+          },
+          "暴击": {
+            "score": 2,
+            "val": "5%",
+            "add_val": "0%"
+          },
+          "攻击": {
+            "score": 2,
+            "val": "113",
+            "add_val": "0"
+          },
+          "防御": {
+            "score": 1,
+            "val": "67",
+            "add_val": "0"
+          },
+          "效果抵抗": {
+            "score": 0,
+            "val": "0%"
+          },
+          "速度": {
+            "score": 4,
+            "val": "117",
+            "add_val": "0"
+          },
+          "效果命中": {
+            "score": 0,
+            "val": "0%"
+          }
+        },
+        "exp": 0,
+        "heroId": 272,
+        "skinfo": [
+          [
+            2721,
+            1
+          ],
+          [
+            2722,
+            1
+          ],
+          [
+            2723,
+            1
+          ]
+        ],
+        "name": "一目连"
+      },
+      "5d47bd9e58492d328c63f39a": {
+        "equips": [
+          "5d0f0ea658492d0d22252b99",
+          "597619ca7374c45ab07e7abd",
+          "5d11b0419f3e05470e4ca9e9",
+          "5d15734858492d52c5318d1c",
+          "5d1429be58492d52c52609a8",
+          "595d11cb7374c46929f3b2b7"
+        ],
+        "usingCards": [],
+        "star": 2,
+        "uid": "5d47bd9e58492d328c63f39a",
+        "level": 1,
+        "lock": true,
+        "selectSkills": [
+          2791,
+          2793,
+          2792
+        ],
+        "heroUid": "5d47bd9e58492d328c63f39a",
+        "rarity": 4,
+        "born": 1564982686,
+        "skinid": 1,
+        "awake": 1,
+        "attrs": {
+          "生命": {
+            "score": 4,
+            "val": "1323",
+            "add_val": "2263"
+          },
+          "暴击伤害": {
+            "score": 0,
+            "val": "161%"
+          },
+          "暴击": {
+            "score": 2,
+            "val": "5%",
+            "add_val": "48%"
+          },
+          "攻击": {
+            "score": 1,
+            "val": "109",
+            "add_val": "88"
+          },
+          "防御": {
+            "score": 1,
+            "val": "68",
+            "add_val": "101"
+          },
+          "效果抵抗": {
+            "score": 0,
+            "val": "11%"
+          },
+          "速度": {
+            "score": 4,
+            "val": "112",
+            "add_val": "13"
+          },
+          "效果命中": {
+            "score": 0,
+            "val": "3%"
+          }
+        },
+        "exp": 0,
+        "heroId": 279,
+        "skinfo": [
+          [
+            2791,
+            1
+          ],
+          [
+            2793,
+            1
+          ],
+          [
+            2792,
+            1
+          ]
+        ],
+        "name": "花鸟卷"
+      },
+      "590de0c8baa9a36f11e3cc2f": {
+        "heroUid": "590de0c8baa9a36f11e3cc2f",
+        "usingCards": [],
+        "star": 2,
+        "uid": "590de0c8baa9a36f11e3cc2f",
+        "equips": [],
+        "newGet": 1,
+        "lock": true,
+        "selectSkills": [
+          1008,
+          1003,
+          1011
+        ],
+        "level": 60,
+        "awake": 0,
+        "rarity": 4,
+        "born": 1494081736,
+        "skinid": 4,
+        "skinfo": [
+          [
+            1003,
+            5
+          ],
+          [
+            1009,
+            5
+          ],
+          [
+            1011,
+            5
+          ],
+          [
+            1008,
+            5
+          ],
+          [
+            1007,
+            1
+          ],
+          [
+            1005,
+            5
+          ],
+          [
+            9001,
+            5
+          ],
+          [
+            1004,
+            5
+          ]
+        ],
+        "attrs": {
+          "生命": {
+            "score": 3,
+            "val": "13847",
+            "add_val": "13293"
+          },
+          "暴击伤害": {
+            "score": 0,
+            "val": "150%"
+          },
+          "暴击": {
+            "score": 0,
+            "val": "0%",
+            "add_val": "0%"
+          },
+          "攻击": {
+            "score": 3,
+            "val": "3256",
+            "add_val": "3126"
+          },
+          "防御": {
+            "score": 3,
+            "val": "536",
+            "add_val": "515"
+          },
+          "效果抵抗": {
+            "score": 0,
+            "val": "0%"
+          },
+          "速度": {
+            "score": 2,
+            "val": "100",
+            "add_val": "28"
+          },
+          "效果命中": {
+            "score": 0,
+            "val": "0%"
+          }
+        },
+        "exp": 0,
+        "heroId": 10,
+        "name": "晴明"
+      },
+      "5d861da058492d6c701886d8": {
+        "equips": [],
+        "usingCards": [],
+        "star": 5,
+        "uid": "5d861da058492d6c701886d8",
+        "level": 35,
+        "lock": true,
+        "selectSkills": [
+          3301,
+          3302,
+          3303
+        ],
+        "skinid": 3,
+        "heroUid": "5d861da058492d6c701886d8",
+        "rarity": 4,
+        "born": 1569070496,
+        "flag": 1,
+        "awake": 1,
+        "attrs": {
+          "生命": {
+            "score": 1,
+            "val": "6581",
+            "add_val": "0"
+          },
+          "暴击伤害": {
+            "score": 0,
+            "val": "150%"
+          },
+          "暴击": {
+            "score": 4,
+            "val": "10%",
+            "add_val": "0%"
+          },
+          "攻击": {
+            "score": 4,
+            "val": "2079",
+            "add_val": "0"
+          },
+          "防御": {
+            "score": 2,
+            "val": "293",
+            "add_val": "0"
+          },
+          "效果抵抗": {
+            "score": 0,
+            "val": "0%"
+          },
+          "速度": {
+            "score": 4,
+            "val": "117",
+            "add_val": "0"
+          },
+          "效果命中": {
+            "score": 0,
+            "val": "0%"
+          }
+        },
+        "exp": 2535,
+        "heroId": 330,
+        "skinfo": [
+          [
+            3301,
+            1
+          ],
+          [
+            3302,
+            1
+          ],
+          [
+            3303,
+            1
+          ]
+        ],
+        "name": "不知火"
+      },
+      "5d12d1b558492d52c5167a46": {
+        "equips": [],
+        "usingCards": [],
+        "star": 3,
+        "uid": "5d12d1b558492d52c5167a46",
+        "level": 25,
+        "lock": true,
+        "selectSkills": [
+          2881,
+          2882,
+          2883
+        ],
+        "skinid": 1,
+        "heroUid": "5d12d1b558492d52c5167a46",
+        "rarity": 4,
+        "born": 1561514421,
+        "flag": 0,
+        "awake": 1,
+        "attrs": {
+          "生命": {
+            "score": 3,
+            "val": "3865",
+            "add_val": "0"
+          },
+          "暴击伤害": {
+            "score": 0,
+            "val": "150%"
+          },
+          "暴击": {
+            "score": 3,
+            "val": "8%",
+            "add_val": "0%"
+          },
+          "攻击": {
+            "score": 4,
+            "val": "654",
+            "add_val": "0"
+          },
+          "防御": {
+            "score": 1,
+            "val": "155",
+            "add_val": "0"
+          },
+          "效果抵抗": {
+            "score": 0,
+            "val": "0%"
+          },
+          "速度": {
+            "score": 3,
+            "val": "107",
+            "add_val": "0"
+          },
+          "效果命中": {
+            "score": 0,
+            "val": "0%"
+          }
+        },
+        "exp": 0,
+        "heroId": 288,
+        "skinfo": [
+          [
+            2881,
+            1
+          ],
+          [
+            2882,
+            1
+          ],
+          [
+            2883,
+            1
+          ]
+        ],
+        "name": "彼岸花"
+      },
+      "596e0a817374c403a4d1f990": {
+        "equips": [],
+        "usingCards": [],
+        "star": 2,
+        "uid": "596e0a817374c403a4d1f990",
+        "level": 2,
+        "lock": true,
+        "selectSkills": [
+          2661,
+          2662,
+          2663
+        ],
+        "skinid": 1,
+        "heroUid": "596e0a817374c403a4d1f990",
+        "rarity": 4,
+        "born": 1500383873,
+        "flag": 0,
+        "awake": 1,
+        "attrs": {
+          "生命": {
+            "score": 3,
+            "val": "1142",
+            "add_val": "0"
+          },
+          "暴击伤害": {
+            "score": 0,
+            "val": "150%"
+          },
+          "暴击": {
+            "score": 3,
+            "val": "8%",
+            "add_val": "0%"
+          },
+          "攻击": {
+            "score": 2,
+            "val": "122",
+            "add_val": "0"
+          },
+          "防御": {
+            "score": 3,
+            "val": "82",
+            "add_val": "0"
+          },
+          "效果抵抗": {
+            "score": 0,
+            "val": "0%"
+          },
+          "速度": {
+            "score": 4,
+            "val": "119",
+            "add_val": "0"
+          },
+          "效果命中": {
+            "score": 0,
+            "val": "0%"
+          }
+        },
+        "exp": 120,
+        "heroId": 266,
+        "skinfo": [
+          [
+            2661,
+            1
+          ],
+          [
+            2662,
+            1
+          ],
+          [
+            2663,
+            1
+          ]
+        ],
+        "name": "青行灯"
+      },
+      "5961ac867374c403a4c3e025": {
+        "equips": [],
+        "usingCards": [],
+        "star": 2,
+        "uid": "5961ac867374c403a4c3e025",
+        "level": 1,
+        "awake": 0,
+        "lock": true,
+        "selectSkills": [
+          9011
+        ],
+        "heroUid": "5961ac867374c403a4c3e025",
+        "rarity": 4,
+        "born": 1499573382,
+        "skinfo": [
+          [
+            9011,
+            1
+          ]
+        ],
+        "attrs": {
+          "生命": {
+            "score": 3,
+            "val": "1067",
+            "add_val": "0"
+          },
+          "暴击伤害": {
+            "score": 0,
+            "val": "150%"
+          },
+          "暴击": {
+            "score": 0,
+            "val": "0%",
+            "add_val": "0%"
+          },
+          "攻击": {
+            "score": 3,
+            "val": "127",
+            "add_val": "0"
+          },
+          "防御": {
+            "score": 3,
+            "val": "75",
+            "add_val": "0"
+          },
+          "效果抵抗": {
+            "score": 0,
+            "val": "0%"
+          },
+          "速度": {
+            "score": 2,
+            "val": "100",
+            "add_val": "0"
+          },
+          "效果命中": {
+            "score": 0,
+            "val": "0%"
+          }
+        },
+        "exp": 0,
+        "heroId": 902,
+        "name": "孔雀"
+      },
+      "5e71d0fb21510f882004386b": {
+        "equips": [
+          "599550c68c99ba3c91b8ba40",
+          "5d1203be58492d0d2233be8e",
+          "5d12066058492d0d2233f03a",
+          "5d16139458492d52c538dc5f",
+          "5d0dd6a258492d0d221fe5cc",
+          "5d0cc8ab58492d0d221cdec0"
+        ],
+        "usingCards": [],
+        "star": 6,
+        "uid": "5e71d0fb21510f882004386b",
+        "level": 40,
+        "lock": true,
+        "selectSkills": [
+          2171,
+          2172,
+          2173
+        ],
+        "skinfo": [
+          [
+            2171,
+            1
+          ],
+          [
+            2172,
+            1
+          ],
+          [
+            2173,
+            1
+          ]
+        ],
+        "heroUid": "5e71d0fb21510f882004386b",
+        "rarity": 4,
+        "born": 1584517371,
+        "skinid": 1,
+        "awake": 1,
+        "attrs": {
+          "生命": {
+            "score": 1,
+            "val": "10026",
+            "add_val": "2925"
+          },
+          "暴击伤害": {
+            "score": 0,
+            "val": "164%"
+          },
+          "暴击": {
+            "score": 4,
+            "val": "10%",
+            "add_val": "93%"
+          },
+          "攻击": {
+            "score": 4,
+            "val": "3136",
+            "add_val": "4581"
+          },
+          "防御": {
+            "score": 2,
+            "val": "419",
+            "add_val": "159"
+          },
+          "效果抵抗": {
+            "score": 0,
+            "val": "30%"
+          },
+          "速度": {
+            "score": 4,
+            "val": "110",
+            "add_val": "21"
+          },
+          "效果命中": {
+            "score": 0,
+            "val": "33%"
+          }
+        },
+        "exp": 0,
+        "heroId": 217,
+        "name": "大天狗"
+      },
+      "5d38238d58492d2dc2a33894": {
+        "equips": [
+          "5e72eb3921510f88200af5a9",
+          "5d0f0d7958492d0d22252781",
+          "5e71821821510f8820008f07",
+          "5e72d90621510f88200a5dff",
+          "5d14252558492d52c525e83d",
+          "5d0cc89e58492d0d221cde4d"
+        ],
+        "usingCards": [],
+        "star": 4,
+        "uid": "5d38238d58492d2dc2a33894",
+        "level": 28,
+        "lock": true,
+        "selectSkills": [
+          2801,
+          2802,
+          2803
+        ],
+        "heroUid": "5d38238d58492d2dc2a33894",
+        "rarity": 4,
+        "born": 1563960205,
+        "skinid": 1,
+        "awake": 1,
+        "attrs": {
+          "生命": {
+            "score": 4,
+            "val": "6259",
+            "add_val": "3280"
+          },
+          "暴击伤害": {
+            "score": 0,
+            "val": "153%"
+          },
+          "暴击": {
+            "score": 2,
+            "val": "5%",
+            "add_val": "3%"
+          },
+          "攻击": {
+            "score": 2,
+            "val": "759",
+            "add_val": "170"
+          },
+          "防御": {
+            "score": 2,
+            "val": "213",
+            "add_val": "34"
+          },
+          "效果抵抗": {
+            "score": 0,
+            "val": "0%"
+          },
+          "速度": {
+            "score": 3,
+            "val": "108",
+            "add_val": "2"
+          },
+          "效果命中": {
+            "score": 0,
+            "val": "26%"
+          }
+        },
+        "exp": 11158,
+        "heroId": 280,
+        "skinfo": [
+          [
+            2801,
+            1
+          ],
+          [
+            2802,
+            1
+          ],
+          [
+            2803,
+            1
+          ]
+        ],
+        "name": "辉夜姬"
+      },
+      "5e2b7f1e21d768312678ea47": {
+        "equips": [],
+        "usingCards": [],
+        "star": 2,
+        "uid": "5e2b7f1e21d768312678ea47",
+        "level": 14,
+        "lock": true,
+        "selectSkills": [
+          3261,
+          3262,
+          3263
+        ],
+        "skinfo": [
+          [
+            3261,
+            1
+          ],
+          [
+            3262,
+            1
+          ],
+          [
+            3263,
+            1
+          ]
+        ],
+        "heroUid": "5e2b7f1e21d768312678ea47",
+        "rarity": 5,
+        "born": 1579908894,
+        "awake": 1,
+        "attrs": {
+          "生命": {
+            "score": 3,
+            "val": "1969",
+            "add_val": "0"
+          },
+          "暴击伤害": {
+            "score": 0,
+            "val": "150%"
+          },
+          "暴击": {
+            "score": 4,
+            "val": "10%",
+            "add_val": "0%"
+          },
+          "攻击": {
+            "score": 4,
+            "val": "293",
+            "add_val": "0"
+          },
+          "防御": {
+            "score": 4,
+            "val": "119",
+            "add_val": "0"
+          },
+          "效果抵抗": {
+            "score": 0,
+            "val": "0%"
+          },
+          "速度": {
+            "score": 3,
+            "val": "109",
+            "add_val": "0"
+          },
+          "效果命中": {
+            "score": 0,
+            "val": "0%"
+          }
+        },
+        "exp": 11140,
+        "heroId": 326,
+        "name": "稻荷神御馔津"
+      },
+      "590de86ebaa9a36f11e3da35": {
+        "heroUid": "590de86ebaa9a36f11e3da35",
+        "usingCards": [],
+        "star": 2,
+        "uid": "590de86ebaa9a36f11e3da35",
+        "equips": [],
+        "awake": 0,
+        "lock": true,
+        "selectSkills": [
+          9011
+        ],
+        "level": 28,
+        "rarity": 4,
+        "born": 1494083694,
+        "skinfo": [
+          [
+            9011,
+            1
+          ]
+        ],
+        "attrs": {
+          "生命": {
+            "score": 3,
+            "val": "3765",
+            "add_val": "0"
+          },
+          "暴击伤害": {
+            "score": 0,
+            "val": "150%"
+          },
+          "暴击": {
+            "score": 0,
+            "val": "0%",
+            "add_val": "0%"
+          },
+          "攻击": {
+            "score": 3,
+            "val": "539",
+            "add_val": "0"
+          },
+          "防御": {
+            "score": 3,
+            "val": "151",
+            "add_val": "0"
+          },
+          "效果抵抗": {
+            "score": 0,
+            "val": "0%"
+          },
+          "速度": {
+            "score": 2,
+            "val": "100",
+            "add_val": "0"
+          },
+          "效果命中": {
+            "score": 0,
+            "val": "0%"
+          }
+        },
+        "exp": 375,
+        "heroId": 901,
+        "name": "白藏主"
+      },
+      "5e98173a59231538621b7f2d": {
+        "equips": [],
+        "usingCards": [],
+        "star": 2,
+        "uid": "5e98173a59231538621b7f2d",
+        "level": 1,
+        "lock": true,
+        "selectSkills": [
+          2961,
+          2962,
+          2963
+        ],
+        "heroUid": "5e98173a59231538621b7f2d",
+        "rarity": 4,
+        "born": 1587025722,
+        "awake": 0,
+        "attrs": {
+          "生命": {
+            "score": 2,
+            "val": "960",
+            "add_val": "0"
+          },
+          "暴击伤害": {
+            "score": 0,
+            "val": "150%"
+          },
+          "暴击": {
+            "score": 0,
+            "val": "1%",
+            "add_val": "0%"
+          },
+          "攻击": {
+            "score": 4,
+            "val": "146",
+            "add_val": "0"
+          },
+          "防御": {
+            "score": 1,
+            "val": "60",
+            "add_val": "0"
+          },
+          "效果抵抗": {
+            "score": 0,
+            "val": "0%"
+          },
+          "速度": {
+            "score": 3,
+            "val": "105",
+            "add_val": "0"
+          },
+          "效果命中": {
+            "score": 0,
+            "val": "0%"
+          }
+        },
+        "exp": 0,
+        "heroId": 296,
+        "skinfo": [
+          [
+            2961,
+            1
+          ],
+          [
+            2962,
+            1
+          ],
+          [
+            2963,
+            1
+          ]
+        ],
+        "name": "山风"
+      },
+      "5e0633096a2f2c783a3b4f1e": {
+        "equips": [],
+        "usingCards": [],
+        "star": 2,
+        "uid": "5e0633096a2f2c783a3b4f1e",
+        "level": 14,
+        "awake": 1,
+        "lock": true,
+        "selectSkills": [
+          3151,
+          3152,
+          3153
+        ],
+        "heroUid": "5e0633096a2f2c783a3b4f1e",
+        "rarity": 5,
+        "born": 1577464585,
+        "skinfo": [
+          [
+            3151,
+            1
+          ],
+          [
+            3152,
+            1
+          ],
+          [
+            3153,
+            1
+          ]
+        ],
+        "attrs": {
+          "生命": {
+            "score": 1,
+            "val": "1674",
+            "add_val": "0"
+          },
+          "暴击伤害": {
+            "score": 0,
+            "val": "150%"
+          },
+          "暴击": {
+            "score": 4,
+            "val": "10%",
+            "add_val": "0%"
+          },
+          "攻击": {
+            "score": 4,
+            "val": "332",
+            "add_val": "0"
+          },
+          "防御": {
+            "score": 1,
+            "val": "92",
+            "add_val": "0"
+          },
+          "效果抵抗": {
+            "score": 0,
+            "val": "0%"
+          },
+          "速度": {
+            "score": 4,
+            "val": "122",
+            "add_val": "0"
+          },
+          "效果命中": {
+            "score": 0,
+            "val": "0%"
+          }
+        },
+        "exp": 11140,
+        "heroId": 315,
+        "name": "少羽大天狗"
+      },
+      "5911e981baa9a36f11e8004d": {
+        "equips": [
+          "5d0edbcd58492d0d22247e3f",
+          "5d1e0bb858492d444ce42099",
+          "5d136d8358492d52c52017f9",
+          "5e6b90967b782347201a9196",
+          "5d1e0d6158492d444ce42771",
+          "5d160e7858492d52c5387411"
+        ],
+        "usingCards": [],
+        "star": 6,
+        "uid": "5911e981baa9a36f11e8004d",
+        "level": 40,
+        "lock": true,
+        "selectSkills": [
+          2691,
+          2693,
+          2692
+        ],
+        "skinid": 2,
+        "heroUid": "5911e981baa9a36f11e8004d",
+        "rarity": 4,
+        "nick": "妖刀鸡",
+        "flag": 1,
+        "awake": 1,
+        "attrs": {
+          "生命": {
+            "score": 1,
+            "val": "10026",
+            "add_val": "2397"
+          },
+          "暴击伤害": {
+            "score": 0,
+            "val": "184%"
+          },
+          "暴击": {
+            "score": 4,
+            "val": "12%",
+            "add_val": "90%"
+          },
+          "攻击": {
+            "score": 4,
+            "val": "3270",
+            "add_val": "4164"
+          },
+          "防御": {
+            "score": 1,
+            "val": "397",
+            "add_val": "66"
+          },
+          "效果抵抗": {
+            "score": 0,
+            "val": "18%"
+          },
+          "速度": {
+            "score": 4,
+            "val": "111",
+            "add_val": "8"
+          },
+          "效果命中": {
+            "score": 0,
+            "val": "7%"
+          }
+        },
+        "exp": 0,
+        "special_effect": [
+          "972690"
+        ],
+        "born": 1494346113,
+        "heroId": 269,
+        "skinfo": [
+          [
+            2691,
+            5
+          ],
+          [
+            2693,
+            5
+          ],
+          [
+            2692,
+            1
+          ]
+        ],
+        "name": "妖刀姬"
+      },
+      "5e6b317e7b7823472014e1be": {
+        "equips": [
+          "59147692baa9a36f11e9f798",
+          "596077e97374c403a4c26ad8",
+          "598c17018c99ba33300d557b",
+          "5d1e115858492d444ce43d62",
+          "5d1202e658492d0d2233ac1c",
+          "595d11cb7374c46929f3b2b9"
+        ],
+        "usingCards": [],
+        "star": 6,
+        "uid": "5e6b317e7b7823472014e1be",
+        "level": 40,
+        "lock": true,
+        "selectSkills": [
+          3381,
+          3382,
+          3383
+        ],
+        "skinid": 1,
+        "heroUid": "5e6b317e7b7823472014e1be",
+        "rarity": 4,
+        "nick": "叉鸡",
+        "flag": 1,
+        "awake": 1,
+        "attrs": {
+          "生命": {
+            "score": 1,
+            "val": "10026",
+            "add_val": "502"
+          },
+          "暴击伤害": {
+            "score": 0,
+            "val": "153%"
+          },
+          "暴击": {
+            "score": 4,
+            "val": "10%",
+            "add_val": "79%"
+          },
+          "攻击": {
+            "score": 4,
+            "val": "3511",
+            "add_val": "3034"
+          },
+          "防御": {
+            "score": 1,
+            "val": "357",
+            "add_val": "131"
+          },
+          "效果抵抗": {
+            "score": 0,
+            "val": "6%"
+          },
+          "速度": {
+            "score": 4,
+            "val": "120",
+            "add_val": "9"
+          },
+          "效果命中": {
+            "score": 0,
+            "val": "11%"
+          }
+        },
+        "exp": 0,
+        "born": 1584083326,
+        "heroId": 338,
+        "skinfo": [
+          [
+            3381,
+            2
+          ],
+          [
+            3382,
+            4
+          ],
+          [
+            3383,
+            3
+          ]
+        ],
+        "name": "泷夜叉姬"
+      },
+      "590de86ebaa9a36f11e3da34": {
+        "equips": [],
+        "usingCards": [],
+        "star": 2,
+        "uid": "590de86ebaa9a36f11e3da34",
+        "level": 60,
+        "newGet": 1,
+        "lock": true,
+        "selectSkills": [
+          1101,
+          1103,
+          1102
+        ],
+        "heroUid": "590de86ebaa9a36f11e3da34",
+        "rarity": 4,
+        "born": 1494083694,
+        "skinid": 2,
+        "skinfo": [
+          [
+            1101,
+            5
+          ],
+          [
+            1102,
+            5
+          ],
+          [
+            1111,
+            5
+          ],
+          [
+            1104,
+            5
+          ],
+          [
+            1103,
+            5
+          ],
+          [
+            9011,
+            5
+          ],
+          [
+            1107,
+            1
+          ],
+          [
+            1105,
+            2
+          ]
+        ],
+        "attrs": {
+          "生命": {
+            "score": 3,
+            "val": "13847",
+            "add_val": "7062"
+          },
+          "暴击伤害": {
+            "score": 0,
+            "val": "150%"
+          },
+          "暴击": {
+            "score": 0,
+            "val": "0%",
+            "add_val": "0%"
+          },
+          "攻击": {
+            "score": 3,
+            "val": "3256",
+            "add_val": "1661"
+          },
+          "防御": {
+            "score": 3,
+            "val": "536",
+            "add_val": "273"
+          },
+          "效果抵抗": {
+            "score": 0,
+            "val": "0%"
+          },
+          "速度": {
+            "score": 2,
+            "val": "100",
+            "add_val": "20"
+          },
+          "效果命中": {
+            "score": 0,
+            "val": "0%"
+          }
+        },
+        "exp": 0,
+        "heroId": 11,
+        "awake": 0,
+        "name": "神乐"
+      }
+    },
+    "soul_jade": 20,
+    "medal": 93,
+    "currency_900218": 48,
+    "name": "湫鸣~",
+    "hero_history": {
+      "gua": {
+        "got": 1,
+        "all": 14
+      },
+      "sr": {
+        "got": 46,
+        "all": 56
+      },
+      "sp": {
+        "all": 13,
+        "339": [
+          "烬天玉藻前",
+          0
+        ],
+        "334": [
+          "骁浪荒川之主",
+          0
+        ],
+        "331": [
+          "御怨般若",
+          0
+        ],
+        "315": [
+          "少羽大天狗",
+          1
+        ],
+        "322": [
+          "炼狱茨木童子",
+          0
+        ],
+        "346": [
+          "聆海金鱼姬",
+          1
+        ],
+        "326": [
+          "稻荷神御馔津",
+          1
+        ],
+        "352": [
+          "缚骨清姬",
+          0
+        ],
+        "343": [
+          "天剑韧心鬼切",
+          0
+        ],
+        "got": 3,
+        "328": [
+          "赤影妖刀姬",
+          0
+        ],
+        "348": [
+          "浮世青行灯",
+          0
+        ],
+        "341": [
+          "鬼王酒吞童子",
+          0
+        ],
+        "327": [
+          "苍风一目连",
+          0
+        ]
+      },
+      "ssr": {
+        "217": [
+          "大天狗",
+          1
+        ],
+        "all": 30,
+        "338": [
+          "泷夜叉姬",
+          1
+        ],
+        "312": [
+          "鬼切",
+          0
+        ],
+        "311": [
+          "面灵气",
+          1
+        ],
+        "316": [
+          "白藏主",
+          0
+        ],
+        "333": [
+          "大岳丸",
+          1
+        ],
+        "219": [
+          "酒吞童子",
+          1
+        ],
+        "272": [
+          "一目连",
+          1
+        ],
+        "259": [
+          "小鹿男",
+          0
+        ],
+        "279": [
+          "花鸟卷",
+          1
+        ],
+        "255": [
+          "阎魔",
+          1
+        ],
+        "345": [
+          "鬼童丸",
+          0
+        ],
+        "344": [
+          "云外镜",
+          0
+        ],
+        "288": [
+          "彼岸花",
+          1
+        ],
+        "347": [
+          "缘结神",
+          0
+        ],
+        "325": [
+          "八岐大蛇",
+          0
+        ],
+        "280": [
+          "辉夜姬",
+          1
+        ],
+        "283": [
+          "荒",
+          0
+        ],
+        "300": [
+          "玉藻前",
+          0
+        ],
+        "304": [
+          "御馔津",
+          0
+        ],
+        "330": [
+          "不知火",
+          1
+        ],
+        "266": [
+          "青行灯",
+          1
+        ],
+        "265": [
+          "茨木童子",
+          1
+        ],
+        "got": 15,
+        "269": [
+          "妖刀姬",
+          1
+        ],
+        "248": [
+          "荒川之主",
+          0
+        ],
+        "258": [
+          "两面佛",
+          0
+        ],
+        "353": [
+          "紧那罗",
+          0
+        ],
+        "351": [
+          "铃鹿御前",
+          0
+        ],
+        "296": [
+          "山风",
+          1
+        ],
+        "292": [
+          "雪童子",
+          0
+        ]
+      },
+      "r": {
+        "got": 32,
+        "all": 35
+      },
+      "x": {
+        "308": [
+          "鬼灯",
+          0
+        ],
+        "309": [
+          "阿香",
+          0
+        ],
+        "all": 10,
+        "310": [
+          "蜜桃&芥子",
+          0
+        ],
+        "313": [
+          "犬夜叉",
+          0
+        ],
+        "337": [
+          "黑崎一护",
+          0
+        ],
+        "336": [
+          "朽木露琪亚",
+          0
+        ],
+        "319": [
+          "桔梗",
+          0
+        ],
+        "305": [
+          "卖药郎",
+          0
+        ],
+        "got": 0,
+        "294": [
+          "奴良陆生",
+          0
+        ],
+        "314": [
+          "杀生丸",
+          0
+        ]
+      }
+    },
+    "head_skin": {
+      "901140": "初心者",
+      "901369": "与君结缘头像框",
+      "901113": "枫霜红",
+      "901357": "百鬼图",
+      "901116": "妖之刃",
+      "901361": "梨园百相",
+      "901287": "福满流金",
+      "901370": "星夜邀舞",
+      "901371": "星夜邀舞·泛舟",
+      "901251": "万象之巅"
+    },
+    "sp_coin": 0,
+    "currency_906058": 0,
+    "skin_coupon": 120,
+    "head_skin_count": {
+      "901140": 2,
+      "901287": 1,
+      "901251": 1
+    },
+    "hero_fragment": {
+      "432191": {
+        "num": 11,
+        "name": "酒吞童子",
+        "hero_id": 219
+      },
+      "432791": {
+        "num": 1,
+        "name": "花鸟卷",
+        "hero_id": 279
+      },
+      "433041": {
+        "num": 1,
+        "name": "御馔津",
+        "hero_id": 304
+      },
+      "432661": {
+        "num": 2,
+        "name": "青行灯",
+        "hero_id": 266
+      },
+      "432171": {
+        "num": 3,
+        "name": "大天狗",
+        "hero_id": 217
+      },
+      "432881": {
+        "num": 1,
+        "name": "彼岸花",
+        "hero_id": 288
+      },
+      "433371": {
+        "num": 10,
+        "name": "黑崎一护",
+        "hero_id": 337
+      },
+      "432591": {
+        "num": 1,
+        "name": "小鹿男",
+        "hero_id": 259
+      },
+      "433121": {
+        "num": 1,
+        "name": "鬼切",
+        "hero_id": 312
+      },
+      "432581": {
+        "num": 1,
+        "name": "两面佛",
+        "hero_id": 258
+      },
+      "433001": {
+        "num": 1,
+        "name": "玉藻前",
+        "hero_id": 300
+      },
+      "432691": {
+        "num": 9,
+        "name": "妖刀姬",
+        "hero_id": 269
+      }
+    },
+    "currency_900007": 169,
+    "currency_900040": 18,
+    "currency_900041": 47,
+    "currency_900120": 45,
+    "login_state": 4,
+    "level_15": 37,
+    "exp": 0,
+    "on_sell_sn": "202009131601616-7-8ICYSPQUFJDYJK",
+    "currency_900039": 25,
+    "goyu": 39,
+    "trial_rank": -1
+  }
+}

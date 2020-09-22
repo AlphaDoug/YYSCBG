@@ -3,6 +3,7 @@ import CrawlYYSCBG_Roles.main
 import CrawlYYSCBG_RoleDataList.main
 import time
 import xlwt
+import re
 
 
 def SaveDataAsExcel():
@@ -58,10 +59,20 @@ def SaveDataAsExcel():
 def SaveAllRolesData():
     # 根据订单号获取所有的角色的详细数据并保存
     allRoles = CrawlYYSCBG_Roles.main.GetAllUserData()
+    ignore_order_sn = []
+    with open('ignore.txt', 'r', encoding='utf-8') as file:
+        ignore_order_sn = file.readlines()
+        file.close()
+    ignore_order_sn = [x.strip() for x in ignore_order_sn]
     all_order_sn = []
     for role in allRoles:
-        one_data = {'order_sn': role['game_ordersn'], 'server_id': role['serverid']}
-        all_order_sn.append(one_data)
+        is_ignore = False
+        for ignore_data in ignore_order_sn:
+            if ignore_data == role['game_ordersn']:
+                is_ignore = True
+        if not is_ignore:
+            one_data = {'order_sn': role['game_ordersn'], 'server_id': role['serverid']}
+            all_order_sn.append(one_data)
     s_time = 0
     for data in all_order_sn:
         time.sleep(s_time)
