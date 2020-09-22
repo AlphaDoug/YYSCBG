@@ -1,0 +1,1313 @@
+{
+  "status": 1,
+  "server_time": 1600784286600,
+  "order_field": "selling_time",
+  "order_headers": [
+    {
+      "field": "selling_time",
+      "direction": [
+        "DESC"
+      ],
+      "name": "最新"
+    },
+    {
+      "field": "recommd",
+      "direction": [],
+      "name": "人气"
+    },
+    {
+      "field": "price",
+      "direction": [
+        "DESC",
+        "ASC"
+      ],
+      "name": "价格"
+    }
+  ],
+  "order_direction": "DESC",
+  "paging": {
+    "is_last_page": false
+  },
+  "result": [
+    {
+      "storage_type": 4,
+      "tag": "latest",
+      "collect_num": 0,
+      "pass_fair_show": 0,
+      "server_name": "举手相庆",
+      "level_desc": "60级",
+      "highlights": [
+        "终极之巅",
+        "黑晴明"
+      ],
+      "kindid": 1,
+      "equip_level": 60,
+      "tag_key": "{\"sort_key\": \"recommd\", \"tag\": \"latest\", \"sort_order\": \"\"}",
+      "area_name": "全平台互通新区",
+      "desc_sumup_short": "SSR 43   六星式神 72   签到1062天",
+      "equip_type": "0",
+      "price": 500000,
+      "other_info": {
+        "top_heros": [
+          {
+            "star": 6,
+            "name": "鬼王酒吞童子",
+            "level": 40,
+            "max_level": true,
+            "rarity": 5,
+            "awake": 1,
+            "heroId": 341,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/341/341.png"
+          },
+          {
+            "star": 6,
+            "name": "少羽大天狗",
+            "level": 40,
+            "max_level": true,
+            "rarity": 5,
+            "awake": 1,
+            "heroId": 315,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/315/315.png"
+          },
+          {
+            "star": 6,
+            "name": "天剑韧心鬼切",
+            "level": 40,
+            "max_level": true,
+            "rarity": 5,
+            "awake": 1,
+            "heroId": 343,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/343/343.png"
+          },
+          {
+            "star": 6,
+            "name": "缚骨清姬",
+            "level": 40,
+            "max_level": true,
+            "rarity": 5,
+            "awake": 1,
+            "heroId": 352,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/352/352.png"
+          },
+          {
+            "star": 6,
+            "name": "聆海金鱼姬",
+            "level": 40,
+            "max_level": true,
+            "rarity": 5,
+            "awake": 1,
+            "heroId": 346,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/346/346.png"
+          }
+        ],
+        "level_desc": "60级",
+        "highlights": [
+          "终极之巅",
+          "黑晴明"
+        ],
+        "desc_sumup": "SSR 43   六星式神 72   签到1062天",
+        "basic_attrs": [
+          "SSR 43",
+          "六星式神 72",
+          "签到1062天"
+        ],
+        "icon": "https://cbg-yys.res.netease.com//game_res/hero/341/341.png",
+        "desc_sumup_short": "SSR 43   六星式神 72   签到1062天"
+      },
+      "allow_urs_bargain": true,
+      "expire_remain_seconds": 1286314,
+      "serverid": 23,
+      "icon": "https://cbg-yys.res.netease.com//game_res/hero/341/341.png",
+      "game_ordersn": "202009151901616-23-B3DSF7AFPDHWY",
+      "platform_type": 1,
+      "allow_bargain": true,
+      "format_equip_name": "上青龙",
+      "game_channel": "netease"
+    },
+    {
+      "storage_type": 4,
+      "tag": "latest",
+      "collect_num": 6,
+      "pass_fair_show": 1,
+      "server_name": "兰之雅",
+      "level_desc": "60级",
+      "highlights": [],
+      "kindid": 1,
+      "equip_level": 60,
+      "tag_key": "{\"sort_key\": \"recommd\", \"tag\": \"latest\", \"sort_order\": \"\"}",
+      "area_name": "中国区-iOS",
+      "desc_sumup_short": "SSR 39   六星式神 34   签到956天",
+      "equip_type": "0",
+      "price": 52000,
+      "other_info": {
+        "top_heros": [
+          {
+            "star": 6,
+            "name": "炼狱茨木童子",
+            "level": 40,
+            "max_level": true,
+            "rarity": 5,
+            "awake": 1,
+            "heroId": 322,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/322/322.png"
+          },
+          {
+            "star": 6,
+            "name": "烬天玉藻前",
+            "level": 40,
+            "max_level": true,
+            "rarity": 5,
+            "awake": 1,
+            "heroId": 339,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/339/339.png"
+          },
+          {
+            "star": 6,
+            "name": "鬼王酒吞童子",
+            "level": 40,
+            "max_level": true,
+            "rarity": 5,
+            "awake": 1,
+            "heroId": 341,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/341/341.png"
+          },
+          {
+            "star": 6,
+            "name": "酒吞童子",
+            "level": 40,
+            "max_level": true,
+            "rarity": 4,
+            "awake": 1,
+            "heroId": 219,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/219/219.png"
+          },
+          {
+            "star": 6,
+            "name": "御馔津",
+            "level": 40,
+            "max_level": true,
+            "rarity": 4,
+            "awake": 1,
+            "heroId": 304,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/304/304.png"
+          }
+        ],
+        "level_desc": "60级",
+        "highlights": [],
+        "desc_sumup": "SSR 39   六星式神 34   签到956天",
+        "basic_attrs": [
+          "SSR 39",
+          "六星式神 34",
+          "签到956天"
+        ],
+        "icon": "https://cbg-yys.res.netease.com//game_res/hero/322/322.png",
+        "desc_sumup_short": "SSR 39   六星式神 34   签到956天"
+      },
+      "allow_urs_bargain": false,
+      "expire_remain_seconds": 1199912,
+      "serverid": 11,
+      "icon": "https://cbg-yys.res.netease.com//game_res/hero/322/322.png",
+      "game_ordersn": "202008311401616-11-NOFUK1985UT0K",
+      "platform_type": 1,
+      "allow_bargain": false,
+      "format_equip_name": "一条小浪浪",
+      "game_channel": "netease"
+    },
+    {
+      "storage_type": 4,
+      "tag": "latest",
+      "collect_num": 1,
+      "pass_fair_show": 1,
+      "server_name": "稚羽萌心",
+      "level_desc": "60级",
+      "highlights": [],
+      "kindid": 1,
+      "equip_level": 60,
+      "tag_key": "{\"sort_key\": \"recommd\", \"tag\": \"latest\", \"sort_order\": \"\"}",
+      "area_name": "全平台互通新区",
+      "desc_sumup_short": "SSR 5   六星式神 5   签到87天",
+      "equip_type": "0",
+      "price": 17000,
+      "other_info": {
+        "top_heros": [
+          {
+            "star": 6,
+            "name": "八岐大蛇",
+            "level": 40,
+            "max_level": true,
+            "rarity": 4,
+            "awake": 1,
+            "heroId": 325,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/325/325.png"
+          },
+          {
+            "star": 6,
+            "name": "茨木童子",
+            "level": 40,
+            "max_level": true,
+            "rarity": 4,
+            "awake": 1,
+            "heroId": 265,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/265/265.png"
+          },
+          {
+            "star": 6,
+            "name": "彼岸花",
+            "level": 40,
+            "max_level": true,
+            "rarity": 4,
+            "awake": 1,
+            "heroId": 288,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/288/288.png"
+          },
+          {
+            "star": 6,
+            "name": "大天狗",
+            "level": 40,
+            "max_level": true,
+            "rarity": 4,
+            "awake": 1,
+            "heroId": 217,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/217/217.png"
+          },
+          {
+            "star": 6,
+            "name": "苍风一目连",
+            "level": 36,
+            "max_level": false,
+            "rarity": 5,
+            "awake": 1,
+            "heroId": 327,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/327/327.png"
+          }
+        ],
+        "level_desc": "60级",
+        "highlights": [],
+        "desc_sumup": "SSR 5   六星式神 5   签到87天",
+        "basic_attrs": [
+          "SSR 5",
+          "六星式神 5",
+          "签到87天"
+        ],
+        "icon": "https://cbg-yys.res.netease.com//game_res/hero/325/325.png",
+        "desc_sumup_short": "SSR 5   六星式神 5   签到87天"
+      },
+      "allow_urs_bargain": false,
+      "expire_remain_seconds": 1199909,
+      "serverid": 44,
+      "icon": "https://cbg-yys.res.netease.com//game_res/hero/325/325.png",
+      "game_ordersn": "202008171701616-44-BVLQZTCSCKVER",
+      "platform_type": 1,
+      "allow_bargain": false,
+      "format_equip_name": "nikoniko",
+      "game_channel": "netease"
+    },
+    {
+      "storage_type": 4,
+      "tag": "latest",
+      "collect_num": 159,
+      "pass_fair_show": 1,
+      "server_name": "网易-携手同心",
+      "level_desc": "60级",
+      "highlights": [
+        "终极之巅",
+        "赤之流火"
+      ],
+      "kindid": 1,
+      "equip_level": 60,
+      "tag_key": "{\"sort_key\": \"recommd\", \"tag\": \"latest\", \"sort_order\": \"\"}",
+      "area_name": "网易-双平台",
+      "desc_sumup_short": "SSR 39   六星式神 72   签到1221天",
+      "equip_type": "0",
+      "price": 279900,
+      "other_info": {
+        "top_heros": [
+          {
+            "star": 6,
+            "name": "烬天玉藻前",
+            "level": 40,
+            "max_level": true,
+            "rarity": 5,
+            "awake": 1,
+            "heroId": 339,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/339/339.png"
+          },
+          {
+            "star": 6,
+            "name": "缚骨清姬",
+            "level": 40,
+            "max_level": true,
+            "rarity": 5,
+            "awake": 1,
+            "heroId": 352,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/352/352.png"
+          },
+          {
+            "star": 6,
+            "name": "稻荷神御馔津",
+            "level": 40,
+            "max_level": true,
+            "rarity": 5,
+            "awake": 1,
+            "heroId": 326,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/326/326.png"
+          },
+          {
+            "star": 6,
+            "name": "烬天玉藻前",
+            "level": 40,
+            "max_level": true,
+            "rarity": 5,
+            "awake": 1,
+            "heroId": 339,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/339/339.png"
+          },
+          {
+            "star": 6,
+            "name": "少羽大天狗",
+            "level": 40,
+            "max_level": true,
+            "rarity": 5,
+            "awake": 1,
+            "heroId": 315,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/315/315.png"
+          }
+        ],
+        "level_desc": "60级",
+        "highlights": [
+          "终极之巅",
+          "赤之流火"
+        ],
+        "desc_sumup": "SSR 39   六星式神 72   签到1221天",
+        "basic_attrs": [
+          "SSR 39",
+          "六星式神 72",
+          "签到1221天"
+        ],
+        "icon": "https://cbg-yys.res.netease.com//game_res/hero/339/339.png",
+        "desc_sumup_short": "SSR 39   六星式神 72   签到1221天"
+      },
+      "allow_urs_bargain": true,
+      "expire_remain_seconds": 1199908,
+      "serverid": 17,
+      "icon": "https://cbg-yys.res.netease.com//game_res/hero/339/339.png",
+      "game_ordersn": "202008311601616-17-GBADFQSMJZI0J",
+      "platform_type": 2,
+      "allow_bargain": true,
+      "format_equip_name": "藏钱い",
+      "game_channel": "netease"
+    },
+    {
+      "storage_type": 4,
+      "tag": "latest",
+      "collect_num": 15,
+      "pass_fair_show": 1,
+      "server_name": "网易-心意相通",
+      "level_desc": "60级",
+      "highlights": [],
+      "kindid": 1,
+      "equip_level": 60,
+      "tag_key": "{\"sort_key\": \"recommd\", \"tag\": \"latest\", \"sort_order\": \"\"}",
+      "area_name": "网易-双平台",
+      "desc_sumup_short": "SSR 36   六星式神 44   签到919天",
+      "equip_type": "0",
+      "price": 91200,
+      "other_info": {
+        "top_heros": [
+          {
+            "star": 6,
+            "name": "炼狱茨木童子",
+            "level": 40,
+            "max_level": true,
+            "rarity": 5,
+            "awake": 1,
+            "heroId": 322,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/322/322.png"
+          },
+          {
+            "star": 6,
+            "name": "鬼王酒吞童子",
+            "level": 40,
+            "max_level": true,
+            "rarity": 5,
+            "awake": 1,
+            "heroId": 341,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/341/341.png"
+          },
+          {
+            "star": 6,
+            "name": "御怨般若",
+            "level": 40,
+            "max_level": true,
+            "rarity": 5,
+            "awake": 1,
+            "heroId": 331,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/331/331.png"
+          },
+          {
+            "star": 6,
+            "name": "骁浪荒川之主",
+            "level": 40,
+            "max_level": true,
+            "rarity": 5,
+            "awake": 1,
+            "heroId": 334,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/334/334.png"
+          },
+          {
+            "star": 6,
+            "name": "苍风一目连",
+            "level": 40,
+            "max_level": true,
+            "rarity": 5,
+            "awake": 1,
+            "heroId": 327,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/327/327.png"
+          }
+        ],
+        "level_desc": "60级",
+        "highlights": [],
+        "desc_sumup": "SSR 36   六星式神 44   签到919天",
+        "basic_attrs": [
+          "SSR 36",
+          "六星式神 44",
+          "签到919天"
+        ],
+        "icon": "https://cbg-yys.res.netease.com//game_res/hero/322/322.png",
+        "desc_sumup_short": "SSR 36   六星式神 44   签到919天"
+      },
+      "allow_urs_bargain": true,
+      "expire_remain_seconds": 1199902,
+      "serverid": 10,
+      "icon": "https://cbg-yys.res.netease.com//game_res/hero/322/322.png",
+      "game_ordersn": "202008311801616-10-3JSRKYZMR7OET",
+      "platform_type": 2,
+      "allow_bargain": true,
+      "format_equip_name": "李小猫熊",
+      "game_channel": "netease"
+    },
+    {
+      "storage_type": 4,
+      "tag": "latest",
+      "collect_num": 0,
+      "pass_fair_show": 0,
+      "server_name": "春之樱",
+      "level_desc": "60级",
+      "highlights": [],
+      "kindid": 1,
+      "equip_level": 60,
+      "tag_key": "{\"sort_key\": \"recommd\", \"tag\": \"latest\", \"sort_order\": \"\"}",
+      "area_name": "中国区-iOS",
+      "desc_sumup_short": "SSR 48   六星式神 45   签到1258天",
+      "equip_type": "0",
+      "price": 97900,
+      "other_info": {
+        "top_heros": [
+          {
+            "star": 6,
+            "name": "炼狱茨木童子",
+            "level": 40,
+            "max_level": true,
+            "rarity": 5,
+            "awake": 1,
+            "heroId": 322,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/322/322.png"
+          },
+          {
+            "star": 6,
+            "name": "浮世青行灯",
+            "level": 40,
+            "max_level": true,
+            "rarity": 5,
+            "awake": 1,
+            "heroId": 348,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/348/348.png"
+          },
+          {
+            "star": 6,
+            "name": "天剑韧心鬼切",
+            "level": 40,
+            "max_level": true,
+            "rarity": 5,
+            "awake": 1,
+            "heroId": 343,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/343/343.png"
+          },
+          {
+            "star": 6,
+            "name": "聆海金鱼姬",
+            "level": 40,
+            "max_level": true,
+            "rarity": 5,
+            "awake": 1,
+            "heroId": 346,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/346/346.png"
+          },
+          {
+            "star": 6,
+            "name": "御怨般若",
+            "level": 40,
+            "max_level": true,
+            "rarity": 5,
+            "awake": 1,
+            "heroId": 331,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/331/331.png"
+          }
+        ],
+        "level_desc": "60级",
+        "highlights": [],
+        "desc_sumup": "SSR 48   六星式神 45   签到1258天",
+        "basic_attrs": [
+          "SSR 48",
+          "六星式神 45",
+          "签到1258天"
+        ],
+        "icon": "https://cbg-yys.res.netease.com//game_res/hero/322/322.png",
+        "desc_sumup_short": "SSR 48   六星式神 45   签到1258天"
+      },
+      "allow_urs_bargain": true,
+      "expire_remain_seconds": 1286287,
+      "serverid": 20,
+      "icon": "https://cbg-yys.res.netease.com//game_res/hero/322/322.png",
+      "game_ordersn": "202009151901616-20-ZQWFKMWPO5IE9",
+      "platform_type": 1,
+      "allow_bargain": true,
+      "format_equip_name": "小枫不秃头",
+      "game_channel": "netease"
+    },
+    {
+      "storage_type": 4,
+      "tag": "latest",
+      "collect_num": 0,
+      "pass_fair_show": 1,
+      "server_name": "竹之幽",
+      "level_desc": "60级",
+      "highlights": [],
+      "kindid": 1,
+      "equip_level": 60,
+      "tag_key": "{\"sort_key\": \"recommd\", \"tag\": \"latest\", \"sort_order\": \"\"}",
+      "area_name": "中国区-iOS",
+      "desc_sumup_short": "SSR 81   六星式神 28   签到1170天",
+      "equip_type": "0",
+      "price": 88800,
+      "other_info": {
+        "top_heros": [
+          {
+            "star": 6,
+            "name": "炼狱茨木童子",
+            "level": 40,
+            "max_level": true,
+            "rarity": 5,
+            "awake": 1,
+            "heroId": 322,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/322/322.png"
+          },
+          {
+            "star": 6,
+            "name": "炼狱茨木童子",
+            "level": 40,
+            "max_level": true,
+            "rarity": 5,
+            "awake": 1,
+            "heroId": 322,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/322/322.png"
+          },
+          {
+            "star": 6,
+            "name": "大岳丸",
+            "level": 40,
+            "max_level": true,
+            "rarity": 4,
+            "awake": 1,
+            "heroId": 333,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/333/333.png"
+          },
+          {
+            "star": 6,
+            "name": "八岐大蛇",
+            "level": 40,
+            "max_level": true,
+            "rarity": 4,
+            "awake": 1,
+            "heroId": 325,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/325/325.png"
+          },
+          {
+            "star": 6,
+            "name": "玉藻前",
+            "level": 40,
+            "max_level": true,
+            "rarity": 4,
+            "awake": 1,
+            "heroId": 300,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/300/300.png"
+          }
+        ],
+        "level_desc": "60级",
+        "highlights": [],
+        "desc_sumup": "SSR 81   六星式神 28   签到1170天",
+        "basic_attrs": [
+          "SSR 81",
+          "六星式神 28",
+          "签到1170天"
+        ],
+        "icon": "https://cbg-yys.res.netease.com//game_res/hero/322/322.png",
+        "desc_sumup_short": "SSR 81   六星式神 28   签到1170天"
+      },
+      "allow_urs_bargain": false,
+      "expire_remain_seconds": 1199856,
+      "serverid": 22,
+      "icon": "https://cbg-yys.res.netease.com//game_res/hero/322/322.png",
+      "game_ordersn": "202008311301616-22-SIMYA9SOWWSBM",
+      "platform_type": 1,
+      "allow_bargain": false,
+      "format_equip_name": "打人叼烟不掉灰",
+      "game_channel": "netease"
+    },
+    {
+      "storage_type": 4,
+      "tag": "latest",
+      "collect_num": 0,
+      "pass_fair_show": 0,
+      "server_name": "一叶禅心",
+      "level_desc": "60级",
+      "highlights": [],
+      "kindid": 1,
+      "equip_level": 60,
+      "tag_key": "{\"sort_key\": \"recommd\", \"tag\": \"latest\", \"sort_order\": \"\"}",
+      "area_name": "全平台互通新区",
+      "desc_sumup_short": "SSR 22   六星式神 11   签到336天",
+      "equip_type": "0",
+      "price": 42000,
+      "other_info": {
+        "top_heros": [
+          {
+            "star": 6,
+            "name": "烬天玉藻前",
+            "level": 40,
+            "max_level": true,
+            "rarity": 5,
+            "awake": 1,
+            "heroId": 339,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/339/339.png"
+          },
+          {
+            "star": 6,
+            "name": "骁浪荒川之主",
+            "level": 40,
+            "max_level": true,
+            "rarity": 5,
+            "awake": 1,
+            "heroId": 334,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/334/334.png"
+          },
+          {
+            "star": 6,
+            "name": "炼狱茨木童子",
+            "level": 40,
+            "max_level": true,
+            "rarity": 5,
+            "awake": 1,
+            "heroId": 322,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/322/322.png"
+          },
+          {
+            "star": 6,
+            "name": "烬天玉藻前",
+            "level": 40,
+            "max_level": true,
+            "rarity": 5,
+            "awake": 1,
+            "heroId": 339,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/339/339.png"
+          },
+          {
+            "star": 6,
+            "name": "八岐大蛇",
+            "level": 40,
+            "max_level": true,
+            "rarity": 4,
+            "awake": 1,
+            "heroId": 325,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/325/325.png"
+          }
+        ],
+        "level_desc": "60级",
+        "highlights": [],
+        "desc_sumup": "SSR 22   六星式神 11   签到336天",
+        "basic_attrs": [
+          "SSR 22",
+          "六星式神 11",
+          "签到336天"
+        ],
+        "icon": "https://cbg-yys.res.netease.com//game_res/hero/339/339.png",
+        "desc_sumup_short": "SSR 22   六星式神 11   签到336天"
+      },
+      "allow_urs_bargain": false,
+      "expire_remain_seconds": 1286231,
+      "serverid": 38,
+      "icon": "https://cbg-yys.res.netease.com//game_res/hero/339/339.png",
+      "game_ordersn": "202009151901616-38-46CL9HCWGJJJP",
+      "platform_type": 2,
+      "allow_bargain": false,
+      "format_equip_name": "卖鱼强丶",
+      "game_channel": "netease"
+    },
+    {
+      "storage_type": 4,
+      "tag": "latest",
+      "collect_num": 0,
+      "pass_fair_show": 0,
+      "server_name": "春之樱",
+      "level_desc": "60级",
+      "highlights": [
+        "月见黑",
+        "雪月华庭",
+        "赤之流火"
+      ],
+      "kindid": 1,
+      "equip_level": 60,
+      "tag_key": "{\"sort_key\": \"recommd\", \"tag\": \"latest\", \"sort_order\": \"\"}",
+      "area_name": "中国区-iOS",
+      "desc_sumup_short": "SSR 43   六星式神 59   签到1294天",
+      "equip_type": "0",
+      "price": 200000,
+      "other_info": {
+        "top_heros": [
+          {
+            "star": 6,
+            "name": "缚骨清姬",
+            "level": 40,
+            "max_level": true,
+            "rarity": 5,
+            "awake": 1,
+            "heroId": 352,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/352/352.png"
+          },
+          {
+            "star": 6,
+            "name": "御怨般若",
+            "level": 40,
+            "max_level": true,
+            "rarity": 5,
+            "awake": 1,
+            "heroId": 331,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/331/331.png"
+          },
+          {
+            "star": 6,
+            "name": "少羽大天狗",
+            "level": 40,
+            "max_level": true,
+            "rarity": 5,
+            "awake": 1,
+            "heroId": 315,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/315/315.png"
+          },
+          {
+            "star": 6,
+            "name": "聆海金鱼姬",
+            "level": 40,
+            "max_level": true,
+            "rarity": 5,
+            "awake": 1,
+            "heroId": 346,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/346/346.png"
+          },
+          {
+            "star": 6,
+            "name": "烬天玉藻前",
+            "level": 40,
+            "max_level": true,
+            "rarity": 5,
+            "awake": 1,
+            "heroId": 339,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/339/339.png"
+          }
+        ],
+        "level_desc": "60级",
+        "highlights": [
+          "月见黑",
+          "雪月华庭",
+          "赤之流火"
+        ],
+        "desc_sumup": "SSR 43   六星式神 59   签到1294天",
+        "basic_attrs": [
+          "SSR 43",
+          "六星式神 59",
+          "签到1294天"
+        ],
+        "icon": "https://cbg-yys.res.netease.com//game_res/hero/352/352.png",
+        "desc_sumup_short": "SSR 43   六星式神 59   签到1294天"
+      },
+      "allow_urs_bargain": true,
+      "expire_remain_seconds": 1286169,
+      "serverid": 20,
+      "icon": "https://cbg-yys.res.netease.com//game_res/hero/352/352.png",
+      "game_ordersn": "202009151901616-20-VNFHYAHKQVC6Z",
+      "platform_type": 1,
+      "allow_bargain": true,
+      "format_equip_name": "夏弥会回来",
+      "game_channel": "netease"
+    },
+    {
+      "storage_type": 4,
+      "tag": "latest",
+      "collect_num": 12,
+      "pass_fair_show": 1,
+      "server_name": "兰之雅",
+      "level_desc": "60级",
+      "highlights": [
+        "征服世界",
+        "终极之巅"
+      ],
+      "kindid": 1,
+      "equip_level": 60,
+      "tag_key": "{\"sort_key\": \"recommd\", \"tag\": \"latest\", \"sort_order\": \"\"}",
+      "area_name": "中国区-iOS",
+      "desc_sumup_short": "SSR 82   六星式神 54   签到1153天",
+      "equip_type": "0",
+      "price": 390000,
+      "other_info": {
+        "top_heros": [
+          {
+            "star": 6,
+            "name": "赤影妖刀姬",
+            "level": 40,
+            "max_level": true,
+            "rarity": 5,
+            "awake": 1,
+            "heroId": 328,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/328/328.png"
+          },
+          {
+            "star": 6,
+            "name": "稻荷神御馔津",
+            "level": 40,
+            "max_level": true,
+            "rarity": 5,
+            "awake": 1,
+            "heroId": 326,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/326/326.png"
+          },
+          {
+            "star": 6,
+            "name": "烬天玉藻前",
+            "level": 40,
+            "max_level": true,
+            "rarity": 5,
+            "awake": 1,
+            "heroId": 339,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/339/339.png"
+          },
+          {
+            "star": 6,
+            "name": "炼狱茨木童子",
+            "level": 40,
+            "max_level": true,
+            "rarity": 5,
+            "awake": 1,
+            "heroId": 322,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/322/322.png"
+          },
+          {
+            "star": 6,
+            "name": "少羽大天狗",
+            "level": 40,
+            "max_level": true,
+            "rarity": 5,
+            "awake": 1,
+            "heroId": 315,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/315/315.png"
+          }
+        ],
+        "level_desc": "60级",
+        "highlights": [
+          "征服世界",
+          "终极之巅"
+        ],
+        "desc_sumup": "SSR 82   六星式神 54   签到1153天",
+        "basic_attrs": [
+          "SSR 82",
+          "六星式神 54",
+          "签到1153天"
+        ],
+        "icon": "https://cbg-yys.res.netease.com//game_res/hero/328/328.png",
+        "desc_sumup_short": "SSR 82   六星式神 54   签到1153天"
+      },
+      "allow_urs_bargain": true,
+      "expire_remain_seconds": 1199745,
+      "serverid": 11,
+      "icon": "https://cbg-yys.res.netease.com//game_res/hero/328/328.png",
+      "game_ordersn": "202008101001616-11-ZLP45OJOVJCRI",
+      "platform_type": 1,
+      "allow_bargain": true,
+      "format_equip_name": "全服最强囤囤鼠",
+      "game_channel": "netease"
+    },
+    {
+      "storage_type": 4,
+      "tag": "latest",
+      "collect_num": 1,
+      "pass_fair_show": 1,
+      "server_name": "游梦迷蝶",
+      "level_desc": "60级",
+      "highlights": [
+        "斗技2412"
+      ],
+      "kindid": 1,
+      "equip_level": 60,
+      "tag_key": "{\"sort_key\": \"recommd\", \"tag\": \"latest\", \"sort_order\": \"\"}",
+      "area_name": "全平台互通新区",
+      "desc_sumup_short": "SSR 28   六星式神 37   签到534天",
+      "equip_type": "0",
+      "price": 135000,
+      "other_info": {
+        "top_heros": [
+          {
+            "star": 6,
+            "name": "聆海金鱼姬",
+            "level": 40,
+            "max_level": true,
+            "rarity": 5,
+            "awake": 1,
+            "heroId": 346,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/346/346.png"
+          },
+          {
+            "star": 6,
+            "name": "炼狱茨木童子",
+            "level": 40,
+            "max_level": true,
+            "rarity": 5,
+            "awake": 1,
+            "heroId": 322,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/322/322.png"
+          },
+          {
+            "star": 6,
+            "name": "赤影妖刀姬",
+            "level": 40,
+            "max_level": true,
+            "rarity": 5,
+            "awake": 1,
+            "heroId": 328,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/328/328.png"
+          },
+          {
+            "star": 6,
+            "name": "稻荷神御馔津",
+            "level": 40,
+            "max_level": true,
+            "rarity": 5,
+            "awake": 1,
+            "heroId": 326,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/326/326.png"
+          },
+          {
+            "star": 6,
+            "name": "鬼王酒吞童子",
+            "level": 40,
+            "max_level": true,
+            "rarity": 5,
+            "awake": 1,
+            "heroId": 341,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/341/341.png"
+          }
+        ],
+        "level_desc": "60级",
+        "highlights": [
+          "斗技2412"
+        ],
+        "desc_sumup": "SSR 28   六星式神 37   签到534天",
+        "basic_attrs": [
+          "SSR 28",
+          "六星式神 37",
+          "签到534天"
+        ],
+        "icon": "https://cbg-yys.res.netease.com//game_res/hero/346/346.png",
+        "desc_sumup_short": "SSR 28   六星式神 37   签到534天"
+      },
+      "allow_urs_bargain": true,
+      "expire_remain_seconds": 1199725,
+      "serverid": 35,
+      "icon": "https://cbg-yys.res.netease.com//game_res/hero/346/346.png",
+      "game_ordersn": "202009112201616-35-FBAN7XYZ60UIT",
+      "platform_type": 1,
+      "allow_bargain": true,
+      "format_equip_name": "276一速大蛇",
+      "game_channel": "netease"
+    },
+    {
+      "storage_type": 4,
+      "tag": "latest",
+      "collect_num": 0,
+      "pass_fair_show": 0,
+      "server_name": "B站-两心无间",
+      "level_desc": "60级",
+      "highlights": [],
+      "kindid": 1,
+      "equip_level": 60,
+      "tag_key": "{\"sort_key\": \"recommd\", \"tag\": \"latest\", \"sort_order\": \"\"}",
+      "area_name": "联运-双平台",
+      "desc_sumup_short": "SSR 12   六星式神 12   签到635天",
+      "equip_type": "0",
+      "price": 18000,
+      "other_info": {
+        "top_heros": [
+          {
+            "star": 6,
+            "name": "聆海金鱼姬",
+            "level": 40,
+            "max_level": true,
+            "rarity": 5,
+            "awake": 1,
+            "heroId": 346,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/346/346.png"
+          },
+          {
+            "star": 6,
+            "name": "八岐大蛇",
+            "level": 40,
+            "max_level": true,
+            "rarity": 4,
+            "awake": 1,
+            "heroId": 325,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/325/325.png"
+          },
+          {
+            "star": 6,
+            "name": "彼岸花",
+            "level": 40,
+            "max_level": true,
+            "rarity": 4,
+            "awake": 1,
+            "heroId": 288,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/288/288.png"
+          },
+          {
+            "star": 6,
+            "name": "鬼切",
+            "level": 40,
+            "max_level": true,
+            "rarity": 4,
+            "awake": 1,
+            "heroId": 312,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/312/312.png"
+          },
+          {
+            "star": 6,
+            "name": "云外镜",
+            "level": 40,
+            "max_level": true,
+            "rarity": 4,
+            "awake": 1,
+            "heroId": 344,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/344/344.png"
+          }
+        ],
+        "level_desc": "60级",
+        "highlights": [],
+        "desc_sumup": "SSR 12   六星式神 12   签到635天",
+        "basic_attrs": [
+          "SSR 12",
+          "六星式神 12",
+          "签到635天"
+        ],
+        "icon": "https://cbg-yys.res.netease.com//game_res/hero/346/346.png",
+        "desc_sumup_short": "SSR 12   六星式神 12   签到635天"
+      },
+      "allow_urs_bargain": false,
+      "expire_remain_seconds": 940479,
+      "serverid": 7,
+      "icon": "https://cbg-yys.res.netease.com//game_res/hero/346/346.png",
+      "game_ordersn": "202009141101616-7-RMQPO7HYFD7M9M",
+      "platform_type": 1,
+      "allow_bargain": false,
+      "format_equip_name": "图鉴块满全好式神",
+      "game_channel": "netease"
+    },
+    {
+      "storage_type": 4,
+      "tag": "latest",
+      "collect_num": 7,
+      "pass_fair_show": 1,
+      "server_name": "网易-情比金坚",
+      "level_desc": "60级",
+      "highlights": [],
+      "kindid": 1,
+      "equip_level": 60,
+      "tag_key": "{\"sort_key\": \"recommd\", \"tag\": \"latest\", \"sort_order\": \"\"}",
+      "area_name": "网易-双平台",
+      "desc_sumup_short": "SSR 93   六星式神 30   签到1240天",
+      "equip_type": "0",
+      "price": 108800,
+      "other_info": {
+        "top_heros": [
+          {
+            "star": 6,
+            "name": "少羽大天狗",
+            "level": 40,
+            "max_level": true,
+            "rarity": 5,
+            "awake": 1,
+            "heroId": 315,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/315/315.png"
+          },
+          {
+            "star": 6,
+            "name": "烬天玉藻前",
+            "level": 40,
+            "max_level": true,
+            "rarity": 5,
+            "awake": 1,
+            "heroId": 339,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/339/339.png"
+          },
+          {
+            "star": 6,
+            "name": "炼狱茨木童子",
+            "level": 40,
+            "max_level": true,
+            "rarity": 5,
+            "awake": 1,
+            "heroId": 322,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/322/322.png"
+          },
+          {
+            "star": 6,
+            "name": "泷夜叉姬",
+            "level": 40,
+            "max_level": true,
+            "rarity": 4,
+            "awake": 1,
+            "heroId": 338,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/338/338.png"
+          },
+          {
+            "star": 6,
+            "name": "奴良陆生",
+            "level": 40,
+            "max_level": true,
+            "rarity": 4,
+            "awake": 1,
+            "heroId": 294,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/294/294.png"
+          }
+        ],
+        "level_desc": "60级",
+        "highlights": [],
+        "desc_sumup": "SSR 93   六星式神 30   签到1240天",
+        "basic_attrs": [
+          "SSR 93",
+          "六星式神 30",
+          "签到1240天"
+        ],
+        "icon": "https://cbg-yys.res.netease.com//game_res/hero/315/315.png",
+        "desc_sumup_short": "SSR 93   六星式神 30   签到1240天"
+      },
+      "allow_urs_bargain": false,
+      "expire_remain_seconds": 1199670,
+      "serverid": 13,
+      "icon": "https://cbg-yys.res.netease.com//game_res/hero/315/315.png",
+      "game_ordersn": "202008091101616-13-MUNEQYAIKWXB3",
+      "platform_type": 1,
+      "allow_bargain": false,
+      "format_equip_name": "枫丄沫儿",
+      "game_channel": "netease"
+    },
+    {
+      "storage_type": 4,
+      "tag": "latest",
+      "collect_num": 4,
+      "pass_fair_show": 1,
+      "server_name": "一叶禅心",
+      "level_desc": "60级",
+      "highlights": [],
+      "kindid": 1,
+      "equip_level": 60,
+      "tag_key": "{\"sort_key\": \"recommd\", \"tag\": \"latest\", \"sort_order\": \"\"}",
+      "area_name": "全平台互通新区",
+      "desc_sumup_short": "SSR 33   六星式神 10   签到298天",
+      "equip_type": "0",
+      "price": 38000,
+      "other_info": {
+        "top_heros": [
+          {
+            "star": 6,
+            "name": "烬天玉藻前",
+            "level": 40,
+            "max_level": true,
+            "rarity": 5,
+            "awake": 1,
+            "heroId": 339,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/339/339.png"
+          },
+          {
+            "star": 6,
+            "name": "稻荷神御馔津",
+            "level": 40,
+            "max_level": true,
+            "rarity": 5,
+            "awake": 1,
+            "heroId": 326,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/326/326.png"
+          },
+          {
+            "star": 6,
+            "name": "八岐大蛇",
+            "level": 40,
+            "max_level": true,
+            "rarity": 4,
+            "awake": 1,
+            "heroId": 325,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/325/325.png"
+          },
+          {
+            "star": 6,
+            "name": "大岳丸",
+            "level": 40,
+            "max_level": true,
+            "rarity": 4,
+            "awake": 1,
+            "heroId": 333,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/333/333.png"
+          },
+          {
+            "star": 6,
+            "name": "酒吞童子",
+            "level": 40,
+            "max_level": true,
+            "rarity": 4,
+            "awake": 1,
+            "heroId": 219,
+            "icon": "https://cbg-yys.res.netease.com//game_res/hero/219/219.png"
+          }
+        ],
+        "level_desc": "60级",
+        "highlights": [],
+        "desc_sumup": "SSR 33   六星式神 10   签到298天",
+        "basic_attrs": [
+          "SSR 33",
+          "六星式神 10",
+          "签到298天"
+        ],
+        "icon": "https://cbg-yys.res.netease.com//game_res/hero/339/339.png",
+        "desc_sumup_short": "SSR 33   六星式神 10   签到298天"
+      },
+      "allow_urs_bargain": true,
+      "expire_remain_seconds": 594828,
+      "serverid": 38,
+      "icon": "https://cbg-yys.res.netease.com//game_res/hero/339/339.png",
+      "game_ordersn": "202008231801616-38-WFAZUZJCYDJV4",
+      "platform_type": 1,
+      "allow_bargain": true,
+      "format_equip_name": "日川丨冈坂",
+      "game_channel": "netease"
+    }
+  ],
+  "pager": {
+    "cur_page": 32,
+    "total_pages": 100
+  }
+}

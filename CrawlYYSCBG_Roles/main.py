@@ -35,7 +35,9 @@ params = {
     'page': curPage,
     '_': timeInt + curPage
 }
-
+proxies = {
+    "https": "https://212.87.220.2:3128",
+}
 # 所有的角色简要信息列表
 allRolesList = []
 
@@ -44,6 +46,10 @@ def GetAllUserData():
     if not os.path.isdir('Data') or not os.path.isdir('Data/RoleList'):
         # 当前不存在保存所有角色的文件夹
         print('当前不存在报错所有角色的文件夹,开始爬取数据')
+        if not os.path.isdir('Data'):
+            os.mkdir('Data')
+        else:
+            os.mkdir('Data/RoleList')
         while True:
             if GetOnePageData():
                 time.sleep(random.random() + 0.5)
@@ -64,11 +70,20 @@ def GetAllUserData():
 
 def GetOnePageData():
     # 获取一页数据
-    global curPage, params
+    global curPage, params, headers
+    with open('user-agent.json', 'r', encoding='utf-8') as file:
+        cont = file.read()
+        file.close()
+        cont = json.loads(cont)
+        cont = cont['browsers']
+        browser = random.choice(list(cont.keys()))
+        user_agent = random.choice(cont[browser])
+        print('随机选择的user-agent为：', user_agent)
+    headers['User-Agent'] = user_agent
     params['page'] = curPage
     params['_'] = timeInt + curPage
     r = requests.get(url='https://recommd.yys.cbg.163.com/cgi-bin/recommend.py',
-                     headers=headers, params=params)
+                     headers=headers, params=params, proxies=proxies)
     if r.status_code != 200:
         print('请求失败！！！！')
         return False
@@ -81,6 +96,7 @@ def GetOnePageData():
     with open('Data/RoleList/Page_' + str(curPage) + '.json', 'w', encoding='utf-8') as file:
         file.write(json.dumps(responseJson, indent=2, ensure_ascii=False))
         file.close()
+    print(responseJson)
     if responseJson['paging']['is_last_page']:
         print('已经是最后一页了')
         return False
